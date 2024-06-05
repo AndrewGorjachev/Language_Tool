@@ -1,0 +1,16 @@
+# Filename: PronounsToolView.kv
+
+<PronounsToolView>:
+    MDBoxLayout:
+        orientation: 'vertical'
+        size: root.width, root.height
+
+        MDTopAppBar:
+            title: "Das Geschlecht von Wörtern"
+            left_action_items: [["arrow-left", lambda x: app.change_screen("ChooseLessonView"), "Zurück zur Lektionsauswahl"]]
+
+        MDBoxLayout:
+            orientation: 'vertical'
+            padding: [root.width * 0.01, root.height * 0.01, root.width * 0.01, root.height * 0.01]
+            size: root.width, root.height
+            spacing: root.height * 0.01

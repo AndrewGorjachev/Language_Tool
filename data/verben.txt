@@ -1,0 +1,150 @@
+abfahren         fährt ab        fuhr ab         ist abgefaren
+abfliegen        fliegt ab       flog ab         ist abgeflogen
+abgeben          gibt ab         gab ab          hat abgegeben
+abschließen      schließt ab     schloss ab      hat abgeschlossen
+anbieten         bietet an       bot an          hat angeboten
+anfangen         fangt an        fing an         hat angefangen
+ankommen         kommt an        kam an          ist angekommen
+anrufen          ruft an         rief an         hat angerufen
+ansehen          sieht an        sah an          hat angesehen
+anziehen         zieht an        zog an          hat angezogen
+aufstehen        steht auf       stand auf       ist aufgestanden
+ausgeben         gibt aus        gab aus         hat ausgegeben
+ausgehen         geht aus        ging aus        ist ausgegangen
+aussehen         sieht aus       sah aus         hat ausgesehen
+aussteigen       steigt aus      stieg aus       ist ausgestiegen
+ausziehen        zieht aus       zog aus         ist/hat ausgezogen
+backen           bäckt/backt     buk/backte      hat gebacken
+beginnen         beginnt         begann          hat begonnen
+behalten         behält          behielt         hat behalten
+bekommen         bekommt         bekam           hat bekommen
+bewerben         bewirbt         bewarb          hat beworben
+biegen           biegt           bog             hat gebogen
+bieten           bietet          bot             hat geboten
+bitten           bittet          bat             hat gebeten
+bleiben          bleibt          blieb           ist geblieben
+braten           brät            briet           hat gebraten
+brechen          bricht          brach           ist gebrochen
+brennen          brennt          brannte         hat gebrannt
+bringen          bringt          brachte         hat gebracht
+denken           denkt           dachte          hat gedacht
+einfallen        fällt ein       fiel ein        ist eingefallen
+einladen         lädt ein        lud ein         hat eingeladen
+einschlafen      schläft ein     schlief ein     ist eingeschlafen
+einsteigen       steigt ein      stieg ein       ist eingestiegen
+einziehen        zieht ein       zog             ist eingezogen
+empfehlen        empfiehlt       ein empfahl     hat empfohlen
+entscheiden      entscheidet     entschied       hat entschieden
+essen            isst                            hat gegessen
+fahren           fahrt           fuhr            ist gefahren
+fallen           fällt           fiel            ist gefallen
+fangen           fängt           fing            hat gefangen
+fernsehen        sieht fern      sah fem         hat ferngesehen
+finden           findet          fand            hat gefunden
+fliegen          fliegt          flog            ist geflogen
+geben            gibt            gab             hat gegeben
+gefallen         gefalt          gefiel          hat gefallen
+gehen            geht            ging            ist gegangen
+geschehen        geschieht       geschah         ist geschehen
+gewinnen         gewinnt         gewann          hat gewonnen
+haben            hat             hatte           hat gehabt
+halten           halt            hielt           hat gehalten
+hängen           hangt                           hat gehängt/gehangen
+heißen                                           hat geheißen
+helfen                                           hat geholfen
+kennen                                           hat gekannt
+klingen                                          hat geklungen
+kommen                                           ist gekommen
+laden            lädt                            hat geladen
+lassen           lasst                           hat gelassen
+laufen           läuft                           ist gelaufen
+leidtun          tut leid        tat leid        hat leidgetan
+leihen           leiht           lieh            hat geliehen
+lesen            liest           las             hat gelesen
+liegen           liegt           lag             hat gelegen
+losfahren        fährt los       fuhr los        ist losgefahren
+mitbringen       bringt mit      brachte mit     hat mitgebracht
+mitkommen        kommt mit       kam mit         ist mitgekommen
+mitnehmen        nimmt mit       nahm mit        hat mitgenommen
+mogen            mag       
+mochte                                           hat gemocht
+nehmen           nimmt           nahm            hat genommen
+nennen           nennt           nannte          hat genannt
+raten            rät             riet            hat geraten
+riechen          riecht          roch            hat gerochen
+rufen            ruft            rief            hat gerufen
+scheinen         scheint         schien          hat geschienen
+schlafen         schläft         schlief         hat geschlafen
+schlagen         schlagt         schlug          hat geschlagen
+schließen        schließt        schloss         hat geschlossen
+schneiden        schneidet       schnitt         hat geschnitten
+schreiben        schreibt        schrieb         hat geschrieben
+schwimmen        schwimmt        schwamm         ist geschwommen
+sehen            sieht           sah             hat gesehen
+sein             ist             war             ist gewesen
+singen           singt           sang            hat gesungen
+sinken           sinkt           sank            ist gesunken
+sitzen           sitzt           saß             hat ist gesessen
+spazieren gehen  geht spazieren  ging spazieren  ist spazieren gegangen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+приходить kommen
+работать arbeiten
+называться heißen
+проживать wohnen
+понимать verstehen
+отвечать antworten
+слышать hören
+учиться lernen
+идти gehen
+танцевать tanzen
+разговаривать reden
+пить trinken
+прибывать ankommen
+пересаживаться umsteigen
+уезжать abfahren
+бросать werfen
+казаться scheinen
+выбирать wählen
+пропитывать imprägnieren
+платить einzahlen
+расплачиваться auszahlen
+платить bezahlen
+платить zahlen
+менять wechseln
+приветствовать grüßen
+уходить weggehen
+позволять zulassen
+пережить durchstellen
+ошибиться в выборе verwählen
+включать anmachen
+abstürzen падать
+gratulieren поздравлять
+herunterladen скачать
+stärken укреплять
+entlassen увольнять

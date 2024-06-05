@@ -1,0 +1,14 @@
+die|Kreuzfahrt|круиз
+der|Finger|палец
+das|Blut|кровь
+die|Allergie|аллергия
+das|Alter|возраст
+die|Kartoffel|картофель
+der|Verhalt|поведение
+die|Sicherheitsfrage|секретный вопрос
+das|Notieren|примечание
+die|Verbindung|связь
+der|Osten|восток
+die|Baumwolle|хлопок
+das|Badetuch|банное полотенце
+die|Datei|файл

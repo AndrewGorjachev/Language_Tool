@@ -1,0 +1,40 @@
+# Filename: ChooseLessonView.kv
+#:include view/GenderToolView.kv
+#:include view/PronounsToolView.kv
+
+<ChooseLessonView>:
+    MDBoxLayout:
+        orientation: 'vertical'
+        size: root.width, root.height
+        spacing: root.height * 0.005
+
+        MDTopAppBar:
+            title: "Language Tool"
+
+        MDLabel:
+            bold: True
+            size_hint: 1, None
+            valign: "top"
+            halign: "center"
+            text: 'Was möchten Sie lernen?'
+            text_size: self.size
+            font_size: 40
+
+        MDRaisedButton:
+            pos_hint: {"center_x": 0.5, "center_y": 0.5, "top":1}
+            size_hint: 0.5, 0.1
+            text: 'Lern das Geschlecht von Wörtern'
+            on_press: root.manager.current = "GenderToolView"
+
+        MDRaisedButton:
+            pos_hint: {"center_x": 0.5, "center_y": 0.5, "top":1}
+            size_hint: 0.5, 0.1
+            text: 'Die Pronomen lernen'
+            on_press: root.manager.current = "PronounsToolView"
+
+
+
+        MDLabel:
+            valign: "top"
+            halign: "center"
+            text: ''

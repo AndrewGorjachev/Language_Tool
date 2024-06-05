@@ -1,1 +1,5 @@
+bin
+lt
 .idea
+.buildozer/
+__pycache__

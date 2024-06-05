@@ -1,0 +1,13 @@
+gerade|прямой
+günstig|дешевый
+salzig|соленый
+erleichtert|облегченный
+offen|открытый
+egal|равный/безразличный
+wasserdicht|водонепроницаемый
+wasserfest|водостойкий
+besetzt|занятый
+ausgezeichnet|отличный
+schüchtern|Застенчивый
+unhöflich|невежливый
+grauenhaft|ужасный

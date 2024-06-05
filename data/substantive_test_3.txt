@@ -1,0 +1,3 @@
+die|Kreuzfahrt|круиз
+der|Finger|палец
+das|Blut|кровь

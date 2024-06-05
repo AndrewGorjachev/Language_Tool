@@ -1,0 +1,8 @@
+die|Tastatur|клавиатура
+der|Bildschirm|монитор
+die|Tür|дверь
+die|Tasse|чашка
+die|Uhr|часы
+der|Wecker|будильник
+die|Kantine|столовая
+das|Fenster|окно

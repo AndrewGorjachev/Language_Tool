@@ -1,0 +1,249 @@
+# Filename: GenderToolView.kv
+
+
+<GenderToolView>:
+
+    MDBoxLayout:
+        orientation: 'vertical'
+        size: root.width, root.height
+
+        MDTopAppBar:
+            title: "Das Geschlecht von Wörtern"
+            left_action_items: [["arrow-left", lambda x: app.change_screen("ChooseLessonView"), "Zurück zur Lektionsauswahl"]]
+
+        MDBoxLayout:
+            orientation: 'vertical'
+            padding: [root.width * 0.01, root.height * 0.01, root.width * 0.01, root.height * 0.01]
+            size: root.width, root.height
+            spacing: root.height * 0.01
+
+            MDBoxLayout:
+                orientation: 'horizontal'
+                spacing: root.height * 0.01
+                size_hint: 1, 1
+
+                MDLabel:
+                    bold: True
+                    halign: 'left'
+                    text: 'Wort:'
+                    font_size: 50
+                    size_hint: 0.3, 1
+
+                MDTextField:
+                    mode: 'rectangle'
+                    hint_text: ''
+                    id: word_to_check
+                    disabled: True
+                    font_size: 50
+                    size_hint: 1.85, 1
+                    halign: 'center'
+                    padding_y: [self.height / 2.0 - (self.line_height / 2.0) * len(self._lines), 0]
+
+                MDRaisedButton:
+                    text: 'Übersetzen'
+                    size_hint: 0.25, 1
+                    on_press: root.on_press_translate()
+
+            MDBoxLayout:
+                orientation: 'horizontal'
+                spacing: root.width * 0.01
+
+                MDRaisedButton:
+                    text: 'Der'
+                    id: checkMale
+                    size_hint: 1, 1
+                    theme_font_size: "Custom"
+                    font_size: "35sp"
+                    on_press: root.on_press_der()
+
+                MDRaisedButton:
+                    text: 'Die'
+                    id: checkFemale
+                    size_hint: 1, 1
+                    theme_font_size: "Custom"
+                    font_size: "35sp"
+                    on_press: root.on_press_die()
+
+                MDRaisedButton:
+                    text: 'Das'
+                    id: checkNeutral
+                    size_hint: 1, 1
+                    theme_font_size: "Custom"
+                    font_size: "35sp"
+                    on_press: root.on_press_das()
+
+            MDBoxLayout:
+                orientation: 'horizontal'
+                spacing: root.width * 0.005
+
+                MDLabel:
+                    bold: True
+                    halign: "center"
+                    text: 'Statistik'
+
+            MDGridLayout:
+                cols: 2
+                spacing: root.width * 0.05
+                size_hint: 1, 1
+
+                MDLabel:
+                    bold: True
+                    text: '   Gesamtantworten:'
+                    size: self.texture_size
+
+                MDLabel:
+                    id: total_answers
+                    bold: True
+                    text: '0'
+
+                MDLabel:
+                    bold: True
+                    text: '   Gesamtzahl der richtigen Antworten:'
+                    theme_text_color: "Custom"
+                    text_color: (0, 1, 0, 1)
+                    size: self.texture_size
+
+                MDLabel:
+                    id: total_of_right_answers
+                    theme_text_color: "Custom"
+                    text_color: (0, 1, 0, 1)
+                    bold: True
+                    text: '0'
+
+                MDLabel:
+                    bold: True
+                    text: '   Gesamtzahl der falschen Antworten:'
+                    theme_text_color: "Custom"
+                    text_color: (1, 0, 0, 1)
+                    size: self.texture_size
+                    pos_hint: {'right': 1}
+
+                MDLabel:
+                    id: total_of_wrong_answers
+                    theme_text_color: "Custom"
+                    text_color: (1, 0, 0, 1)
+                    bold: True
+                    text: '0'
+
+                MDLabel:
+                    bold: True
+                    text: '   Gesamtzahl der Wörter in der Datenbank:'
+                    size: self.texture_size
+                    pos_hint: {'right': 1}
+
+                MDLabel:
+                    id: total_of_words
+                    bold: True
+                    text: '0'
+
+            MDLabel:
+                bold: True
+                size_hint: 1, 2
+                text: ' '
+
+            MDLabel:
+                bold: True
+                halign: "center"
+                size_hint: 1, 0.5
+                text: 'Neues Wort hinzufügen'
+
+            MDBoxLayout:
+                orientation: 'horizontal'
+                size_hint: 1, 0.5
+
+                MDLabel:
+                    bold: True
+                    halign: "center"
+                    size_hint: 1, 0.5
+                    text: 'der Artikel'
+
+                MDLabel:
+                    bold: True
+                    halign: "center"
+                    size_hint: 1, 0.5
+                    text: 'das Wort'
+
+                MDLabel:
+                    bold: True
+                    halign: "center"
+                    size_hint: 1, 0.5
+                    text: 'die Übersetzung'
+
+            MDBoxLayout:
+                orientation: 'horizontal'
+                spacing: root.width * 0.01
+                size_hint: 1, 1
+
+                MDTextField:
+                    mode: "rectangle"
+                    id: article
+                    multiline: False
+                    disabled: True
+                    font_size: 30
+                    size_hint: 1, 1
+                    halign: 'center'
+                    padding_y: [self.height / 2.0 - (self.line_height / 2.0) * len(self._lines), 0]
+
+                MDTextField:
+                    mode: "rectangle"
+                    id: word
+                    multiline: False
+                    font_size: 30
+                    size_hint: 1, 1
+                    halign: 'center'
+                    padding_y: [self.height / 2.0 - (self.line_height / 2.0) * len(self._lines), 0]
+
+                MDTextField:
+                    mode: "rectangle"
+                    id: translation
+                    multiline: False
+                    font_size: 30
+                    size_hint: 1, 1
+                    halign: 'center'
+                    padding_y: [self.height / 2.0 - (self.line_height / 2.0) * len(self._lines), 0]
+
+            MDBoxLayout:
+                orientation: 'horizontal'
+                spacing: root.width * 0.01
+                size_hint: 1, 1
+
+                MDRaisedButton:
+                    text: 'Neues Wort hinzufügen'
+                    id: addNewFile
+                    size_hint: 1, 1
+                    on_press: root.on_press_new_word()
+
+            MDBoxLayout:
+                orientation: 'horizontal'
+                spacing: root.width * 0.01
+                size_hint: 1, 1
+
+                MDRaisedButton:
+                    text: 'Standarddateien öffnen'
+                    size_hint: 1, 1
+                    on_press: root.on_press_default()
+
+                MDRaisedButton:
+                    text: 'Datei öffnen'
+                    size_hint: 1, 1
+                    on_press: root.on_press_open()
+
+                MDRaisedButton:
+                    text: 'Datei speichern'
+                    size_hint: 1, 1
+                    on_press: root.on_press_save()
+
+            MDBoxLayout:
+                orientation: 'horizontal'
+                spacing: root.width * 0.01
+                size_hint: 1, 1
+
+                MDTextField:
+                    mode: "rectangle"
+                    id: file_path
+                    disabled: True
+                    multiline: False
+                    font_size: 25
+                    size_hint: 0.5, 1
+                    halign: 'center'
+                    padding_y: [self.height / 2.0 - (self.line_height / 2.0) * len(self._lines), 0]

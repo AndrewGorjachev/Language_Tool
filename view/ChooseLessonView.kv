@@ -1,6 +1,9 @@
 # Filename: ChooseLessonView.kv
 #:include view/GenderToolView.kv
 #:include view/PronounsToolView.kv
+#:include view/VerbsToolView.kv
+#:include view/WordsToolView.kv
+
 
 <ChooseLessonView>:
     MDBoxLayout:
@@ -26,12 +29,23 @@
             text: 'Lern das Geschlecht von Wörtern'
             on_press: root.manager.current = "GenderToolView"
 
+#        MDRaisedButton:
+#            pos_hint: {"center_x": 0.5, "center_y": 0.5, "top":1}
+#            size_hint: 0.5, 0.1
+#            text: 'Die Pronomen lernen'
+#            on_press: root.manager.current = "PronounsToolView"
+
+#        MDRaisedButton:
+#            pos_hint: {"center_x": 0.5, "center_y": 0.5, "top":1}
+#            size_hint: 0.5, 0.1
+#            text: 'Die Verben lernen'
+#            on_press: root.manager.current = "VerbsToolView"
+
         MDRaisedButton:
             pos_hint: {"center_x": 0.5, "center_y": 0.5, "top":1}
             size_hint: 0.5, 0.1
-            text: 'Die Pronomen lernen'
-            on_press: root.manager.current = "PronounsToolView"
-
+            text: 'Die Worten lernen'
+            on_press: root.manager.current = "WordsToolView"
 
 
         MDLabel:

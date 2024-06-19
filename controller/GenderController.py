@@ -4,26 +4,14 @@ from datetime import datetime
 
 from kivy.clock import Clock
 
-from model.GenderData import DataEntry
+from controller.CommonController import CommonController
+from model.GenderData import GenderEntry
 from model.GenderModel import GenderModel
 
 
-class GenderController:
+class GenderController(CommonController):
     def __init__(self):
-        self.view = None
-        self.model = None
-        self.data = None
-        self.to_repeat = {}
-        self.current_step = 0
-        self.total_words = 0
-
-    def _reset_statistic(self):
-        self.total_words = len(self.data)
-        self.current_step = 0
-        self.total_answers = 0
-        self.right_answers = 0
-        self.wrong_answers = 0
-        self.random_list = random.sample(range(self.total_words), self.total_words)
+        CommonController.__init__(self)
 
     def _check_if_exist(self, word):
         tmp = set()
@@ -36,40 +24,12 @@ class GenderController:
         self.data = self.model.get_data_set()
         self._reset_statistic()
 
-    def _update_statistics(self):
-        self.view.set_total_answers(self.total_answers)
-        self.view.set_right_answers(self.right_answers)
-        self.view.set_wrong_answers(self.wrong_answers)
-        self.view.set_total_words(self.total_words)
-
     def _get_random_word(self):
         random_number = self.random_list[self.current_step]
         self.view.set_word(self.data[random_number].get_word())
 
-    def repeat_cb(self, answer: bool):
-        if answer:
-            self.data = self.to_repeat.copy()
-            self.to_repeat.clear()
-        else:
-            self.to_repeat.clear()
-        self._reset_statistic()
-        self._update_statistics()
-        self._get_random_word()
-
-    def set_view(self, view):
-        self.view = view
-        if self.model:
-            self._get_random_word()
-            self._update_statistics()
-
-    def reset_colors_cb(self, dt):
-        self.view.reset_colors()
-
     def check_answer(self, article):
         if self.data:
-            print(self.current_step)
-            print(self.total_words)
-
             word_id = self.random_list[self.current_step]
             if article == self.data[word_id].get_article():
                 self.right_answers += 1
@@ -82,19 +42,20 @@ class GenderController:
                 self.to_repeat.update({len_to_repeat: self.data[word_id]})
                 self.view.show_mistake(self.data[word_id].get_article() +
                                        " " +
-                                       self.data[word_id].get_word())
+                                       self.data[word_id].get_word() + " - " +
+                                       self.data[word_id].get_translation())
             self.current_step += 1
             self.total_answers += 1
             self._update_statistics()
             Clock.schedule_once(self.reset_colors_cb, 0.75)
             if self.current_step >= self.total_words:
                 self.data = self.model.get_data_set()
+                ask_sentence = self.generate_ask_phrase()
                 self._reset_statistic()
                 self._update_statistics()
 
                 if len(self.to_repeat) != 0:
-                    self.view.show_ask("Would you like to repeat your mistakes?\n"
-                                       "Press \"No\" to repeat all.")
+                    self.view.show_ask(ask_sentence)
                 else:
                     self.view.show_congratulation("You finished the lesson without mistakes!")
             self._get_random_word()
@@ -139,7 +100,7 @@ class GenderController:
             return None
 
     def add_new_entry(self, article, word, translation):
-        new_data_entry = DataEntry(article, word, translation)
+        new_data_entry = GenderEntry(article, word, translation)
         if self.data:
             if not self._check_if_exist(word):
                 self.data.update({self.total_words: new_data_entry})

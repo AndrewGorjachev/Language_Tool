@@ -1,4 +1,4 @@
-abfahren         fährt ab        fuhr ab         ist abgefaren
+отходить|abfahren         fährt ab        fuhr ab         ist abgefaren
 abfliegen        fliegt ab       flog ab         ist abgeflogen
 abgeben          gibt ab         gab ab          hat abgegeben
 abschließen      schließt ab     schloss ab      hat abgeschlossen
@@ -35,7 +35,7 @@ einsteigen       steigt ein      stieg ein       ist eingestiegen
 einziehen        zieht ein       zog             ist eingezogen
 empfehlen        empfiehlt       ein empfahl     hat empfohlen
 entscheiden      entscheidet     entschied       hat entschieden
-essen            isst                            hat gegessen
+essen            isst            aß              hat gegessen
 fahren           fahrt           fuhr            ist gefahren
 fallen           fällt           fiel            ist gefallen
 fangen           fängt           fing            hat gefangen
@@ -49,15 +49,15 @@ geschehen        geschieht       geschah         ist geschehen
 gewinnen         gewinnt         gewann          hat gewonnen
 haben            hat             hatte           hat gehabt
 halten           halt            hielt           hat gehalten
-hängen           hangt                           hat gehängt/gehangen
-heißen                                           hat geheißen
-helfen                                           hat geholfen
-kennen                                           hat gekannt
-klingen                                          hat geklungen
-kommen                                           ist gekommen
-laden            lädt                            hat geladen
-lassen           lasst                           hat gelassen
-laufen           läuft                           ist gelaufen
+hängen           hangt           hing            hat gehängt/gehangen
+heißen           heiß            hieß            hat geheißen
+helfen           hilft           half            hat geholfen
+kennen           kennt           kannte          hat gekannt
+klingen          klingt          klang           hat geklungen
+kommen           kommt           kam             ist gekommen
+laden            lädt            lud             hat geladen
+lassen           lässt           ließ            hat gelassen
+laufen           läuft           lief            ist gelaufen
 leidtun          tut leid        tat leid        hat leidgetan
 leihen           leiht           lieh            hat geliehen
 lesen            liest           las             hat gelesen
@@ -66,8 +66,7 @@ losfahren        fährt los       fuhr los        ist losgefahren
 mitbringen       bringt mit      brachte mit     hat mitgebracht
 mitkommen        kommt mit       kam mit         ist mitgekommen
 mitnehmen        nimmt mit       nahm mit        hat mitgenommen
-mogen            mag       
-mochte                                           hat gemocht
+mogen            mag             mochte          hat gemocht                                hat gemocht
 nehmen           nimmt           nahm            hat genommen
 nennen           nennt           nannte          hat genannt
 raten            rät             riet            hat geraten
@@ -86,32 +85,49 @@ singen           singt           sang            hat gesungen
 sinken           sinkt           sank            ist gesunken
 sitzen           sitzt           saß             hat ist gesessen
 spazieren gehen  geht spazieren  ging spazieren  ist spazieren gegangen
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+sprechen         spricht         sprach          hat gesprochen
+springen         springt         sprang          ist gesprungen
+stattfinden      findet statt    fand statt      hat stattgefunden
+stehen           steht           stand           hat/ist gestanden
+stehlen          stiehlt         stahl           hat gestohlen
+steigen          steigt          stieg           ist gestiegen
+sterben          stribt          starb           ist gestorben
+streiten         streitet        stritt          hat gestritten
+teilnehmen       nimmt teil      nahm teil       hat telgenommen
+tragen           trägt           trug            hat getragen
+treiben          treibt          trieb           hat getrieben
+treffen          trifft          traf            hat getroffen
+treten           tritt           trat            hat getreten
+trinken          trinkt          trank           hat getrunken
+tun              tut             tat             hat getan
+übertragen       überträgt       übertrug        hat übertragen
+überweisen       überweist       uberwies        hat überwiesen
+umsteigen        steigt um       stieg um        ist umgestiegen
+umziehen         zieht um        zog um          hat/ist umgezogen
+unterhalten      unterhalt       unterhielt      hat unterhalten
+unternehmen      unternimmt      unternahm       hat unternommen
+unterschreiben   unterschreibt   unterschrieb    hat unterschrieben
+verbringen       verbringt       verbrachte      hat verbracht
+vergessen        vergisst        vergaß          hat vergessen
+vergleichen      vergleicht      verglich        hat verglichen
+verlieren        verliert        verlor          hat verloren
+verschieben      verschiebt      verschob        hat verschoben
+verschwinden     verschwindet    verschwand      ist verschwunden
+versprechen      verspricht      versprach       hat versprochen
+verstehen        versteht        verstand        hat verstanden
+vorschlagen      schlägt vor     schlug vor      hat vorgeschlagen
+vorstellen       stellt vor      stellte vor     hat vorgestellt
+wachsen          wächst          wuchs           ist gewachsen
+waschen          wäscht          wusch           hat gewaschen
+weggehen         geht weg        ging weg        ist weggegangen
+wegwerfen        wirft weg       warf weg        hat weggeworfen
+wehtun           tut weh         tat weh         hat wehgetan
+werden           wird            wurde           ist geworden
+werfen           wirft           warf            hat geworfen
+wissen           weiß            wusste          hat gewusst
+ziehen           zieht           zog             hat gezogen
+zurechtkommen    kommt zurecht   kam zurecht     ist zurechtgekommen
+zuruckkommen     kommt zurück    kam zurück      ist zurückgekommen
 
 приходить kommen
 работать arbeiten
@@ -148,3 +164,17 @@ gratulieren поздравлять
 herunterladen скачать
 stärken укреплять
 entlassen увольнять
+abbiegen|заворачивать/сворачивать/поворачивать
+enthalten|содержать
+beachten|наблюдать
+einreichen|представлять на рассмотрение
+abholen|подобрать
+entwerten|обесценить
+enthalten|содержать
+bändigen|усмирять/приручить
+stören|беспокоить/мешать
+Löschen|тушение/стирание
+erholen|восстанавливаться
+entspannen|расслабляться
+verwandeln|трансформировать/превращать
+zudecken|закрывать/накрывать

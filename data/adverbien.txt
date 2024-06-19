@@ -12,3 +12,7 @@ noch|еще
 sofort|немедленно/cразу
 dran|за это/при этом
 wieder|снова
+darum|поэтому
+überhaupt|совсем
+sogar|даже
+sofort|немедленно

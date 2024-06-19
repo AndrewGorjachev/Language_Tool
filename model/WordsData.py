@@ -1,11 +1,7 @@
-class GenderEntry:
-    def __init__(self, article: str, word: str, translation: str = ""):
-        self.article = article
+class WordsEntry:
+    def __init__(self, word: str, translation: str):
         self.word = word
         self.translation = translation
-
-    def get_article(self):
-        return self.article
 
     def get_word(self):
         return self.word

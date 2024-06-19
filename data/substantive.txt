@@ -139,7 +139,7 @@ das|Nummernschild|номерной знак
 das|Schild|вывеска
 der|Duft|запах
 die|Nummer|номер
-der|Scheinwerfer|фары
+der|Scheinwerfer|фара
 die|Motorhaube|капот
 die|Haube|капот
 das|Motorrad|мотоцикл
@@ -357,7 +357,6 @@ die|Durchwahlnummer|добавочный номер
 die|Hosentasche|карман брюк
 der|Frosch|лягушка
 der|Taxistand|стоянка такси
-der|Tiergarten|зоопарк
 die|Bushaltestelle|автобусная остановка
 der|Artikel|артикль
 der|Schlittschuh|коньки
@@ -460,3 +459,163 @@ der|Mensch|человек
 die|Gemeinde|сельсовет
 der|Arm|рука
 der|Code|код
+die|Brücke|мост
+der|Verkehr|движение
+der|Rucksack|рюкзак
+der|Morgen|утро
+die|Suppe|суп
+der|Anschlag|атака
+das|Bild|изображение
+der|Kalender|календарь
+der|Balkon|балкон
+das|Besichtigen|экскурсия
+die|Seite|страница
+das|Tor|ворота
+der|Bericht|отчет
+der|Ehering|обручальное кольцо
+der|Rauch|дым
+der|Stall|конюшня
+das|Abteil|отделение
+die|Nacht|ночь
+der|Schrei|крик
+die|Ampel|светофор
+der|Nachzug|ночной поезд
+die|Antwort|ответ
+die|Figur|фигура
+das|Kopfkissen|подушка
+die|Versicherung|страховка
+der|Friseur|парикмахер
+der|Metzger|мясник
+die|Metzgerei|мясницкая лавка
+der|Skandal|скандал
+die|Autobahn|шоссе
+der|Panda|панда
+die|Melde|доклад/отчет
+das|Lebensmittel|еда
+das|Jahrhundert|век
+der|Tiergarten|зоопарк
+der|Unterschied|разница
+der|Verein|ассоциация
+das|Rezept|рецепт
+die|Grillparty|вечеринка с барбекю
+das|Spätzle|шпецле
+der|Schwiegervater|тесть
+der|Clown|клоун
+das|Plastik|пластик
+der|Mitschüler|одноклассник
+das|Geheimnis|секрет
+das|Obst|фрукты
+das|Gemüse|овощи
+die|Dusche|душ
+das|Heft|тетрадь
+das|Blatt|бумага
+die|Übung|упражнение
+die|Mathematikübungen|упражнение математическое/задача
+die|Grammatik|грамматика
+das|Leder|кожа
+die|Bewegung|движение
+das|Plus|плюс
+die|Überschrift|заголовок
+die|Linie|линия
+die|Note|оценка
+das|Schnarchen|храп
+die|Pause|перерыв
+der|Vergleich|сравнение
+die|Meile|миля
+die|Rechtschreibung|произношение
+die|Störung|беспорядок
+das|Paar|пара
+der|Stundenplan|расписание
+die|Sporthalle|тренажерный зал
+die|Ansage|объявление/анонс
+der|Bescheid|уведомление
+die|Ausrede|оправдание
+die|Leistung|производительность
+das|Aussprechen|произнесение
+das|Beachten|внимание
+der|Bewerb|конкурс
+das|Zyanid|цианид
+die|Schwiegermutter|свекровь
+der|Einzug|коллекция
+der|Witz|шутка
+das|Öl|масло
+der|Sport|Спорт
+der|Wagen|автомобиль
+der|Ersatzwagen|машина на замену
+der|Ersatz|замена
+die|Karosserie|тело
+das|Fahrrad|велосипед
+das|Herrenfahrrad|мужской велосипед
+der|Lenker|руль
+der|Handgriff|рукоятка
+die|Fahrradglocke|велосипедный колокольчик
+die|Handbremse|ручной тормоз
+der|Scheinwerferhalter|держатель фары
+der|Dynamo|динамо
+das|Laufrädchen|рабочее колесо
+die|Vorderradgabel|передняя вилка
+der|Gabelschaft|рулевой тяги
+das|Gabelschaftrohr|рулевая труба
+der|Gabelkopf|головка вилки
+die|Gabelscheiden|ножны для вил
+die|Scheide|ножны
+das|Schutzblech|брызговик
+der|Fahrradrahmen|велосипедная рама
+das|Steuerrohr|рулевая колонка
+das|Markenschild|фирменный знак
+das|Rahmenrohr|труба рамы
+das|Sattelstützrohr|трубка поддержки сиденья
+die|Hinterradstrebe|стойка заднего колеса
+der|Kindersitz|сиденье для ребенка
+der|Fahrradsattel|велосипедное седло
+die|Sattelfedern|седельные рессоры
+die|Sattelstütze|подседельный штырь
+die|Satteltasche|седельная сумка
+die|Nabe|ступица
+die|Felge|обод
+der|Speichennippel|ниппель для спиц
+die|Bereifung|шины
+die|Pneumatik|пневматика
+der|Schlauch|шланг
+der|Mantel|оболочка
+die|Decke|потолок
+das|Ventil|клапан
+die|Ventilkappe|крышка клапана
+das|Tachometer|тахометр
+der|Kippständer|подножка
+der|Antrieb|привод
+der|Kettentrieb|цепной привод
+das|Kettenrad|звездочка
+die|Kette|цепь
+das|Maul|рот
+der|Löwenbändiger|укротитель львов
+der|Schrank|шкаф
+die|Peitsche|кнут
+die|Milch|молоко
+die|Sonnencreme|крем для загара
+die|Schokolade|шоколад
+das|Meer|море
+das|Lieb|любовь
+die|Idee|идея
+die|Karotte|морковь
+das|Weihnachten|Рождество
+das|Geschenk|подарок
+der|Mond|луна
+das|Schlafzimmer|спальня
+das|Zentrum|центр
+der|Sturm|буря
+die|Kerze|свеча
+der|Käfig|клетка
+die|Käfigtür|дверь клетки
+der|Nebel|туман
+der|Adler|орёл
+der|Leuchtturm|маяк
+der|Müll|мусор
+die|Sendung|передача
+der|Mord|убийство
+der|Hubschrauber|вертолет
+der|Schnee|снег
+die|Heizung|отопление
+das|Arbeitsheft|рабочая тетрадь
+das|Klavier|пианино
+die|Moschee|мечеть

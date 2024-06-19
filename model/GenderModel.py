@@ -1,4 +1,4 @@
-from model.GenderData import DataEntry
+from model.GenderData import GenderEntry
 
 
 class GenderModel:
@@ -21,11 +21,11 @@ class GenderModel:
                     data = line.split("|")
                     if data[0] == "der" or data[0] == "die" or data[0] == "das":
                         if len(data) == 2:
-                            data_entry = DataEntry(data[0].strip(), data[1].strip())
+                            data_entry = GenderEntry(data[0].strip(), data[1].strip())
                             output_data_set.update({counter: data_entry})
                             counter += 1
                         elif len(data) == 3:
-                            data_entry = DataEntry(data[0].strip(), data[1], data[2].strip())
+                            data_entry = GenderEntry(data[0].strip(), data[1], data[2].strip())
                             output_data_set.update({counter: data_entry})
                             counter += 1
                         word = data_entry.get_word()

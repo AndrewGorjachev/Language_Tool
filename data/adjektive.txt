@@ -24,3 +24,73 @@ tief|глубокий
 entspannt|расслабленный
 wütend|злой/яростный/свирепый
 seltenen|редкий
+schmal|узкий
+breit|широкий
+gesund|здоровый
+interessant|интересный
+dünn|тонкий
+niedrig|низкий
+restlisch|оставшийся
+giftig|содержащий яд/злой
+fettarme|обезжиренный
+würzig|острый
+ekelhaft|отвратительный
+haltbar|прочный
+hausgemacht|ручной работы
+drinen|внутри
+draußen|снаружи
+dunkel|темный
+brav|послушный
+eng|тесный
+wertvoll|ценный
+sicher|безопасный
+alt|старый
+neu|новый
+würdig|достойный
+getrennt|разделенный
+geduldig|терпеливый
+einheimische|местные
+blaß|бледный
+wild|дикий
+hoch|высокий
+komisch|забавный
+völkisch|народный
+begeistert|восторженный взволнованный
+begabt|одаренный способный
+erfolgreiche|успешный
+rechtzeitig|пунктуальный
+ärgerlich|раздражающий
+erfolgreiche|успешный
+satt|сытый
+bereit|готовый
+selbstständig|самостоятельный
+prima|первоклассный
+ausreichend|достаточный
+enttäuscht|разочарованный
+schlimm|ужасный
+ledig|одинокий
+zufrieden|довольный
+dran|твоя очередь
+eigentlich|на самом деле
+erstklassig|первоклассный
+wertvoll|ценный
+sauber|чистый
+eigene|собственный
+ständig|постоянный
+fair|справедливый
+fällig|должный
+erfolgreich|успешный
+abhängig|зависимый
+roh|сырой
+fällig|должный
+mutig|смелый
+bewaffnet|вооруженный
+unglaublich|невероятный
+verschieden|различный
+obdachlos|бездомный
+überzeugt|убежденный
+empfindlich|чувствительный
+verursacht|обусловленный
+faul|ленивый
+arbeitslos|безработный
+ehrenamtlich|добровольный

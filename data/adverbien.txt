@@ -11,8 +11,36 @@ irgendwer|кое-кто
 noch|еще
 sofort|немедленно/cразу
 dran|за это/при этом
-wieder|снова
+wieder|снова/опять
 darum|поэтому
 überhaupt|совсем
 sogar|даже
 sofort|немедленно
+besonders|особенно
+mindestens|по меньшей мере
+gratis|бесплатно
+draus|вне
+nirgends|нигде
+deshalb|поэтому
+genauso|как только
+damit|затем
+obwohl|несмотря на то
+übrigens|кстати
+fließend|бегло
+neulich|недавно
+ziemlich|довольно
+nebenan|поблизости
+großzügig|щедрый
+unterwegs|по пути
+ungefähr|примерно
+trotzdem|несмотря на это
+böse|злобный
+schlecht|плохой
+stattdessen|вместо
+deswegen|из-за этого
+günstig|выгодный
+zufällig|случайно
+wohl|наверное
+weiter|дальше
+demnächst|в ближайшее время
+umsonst|напрасно

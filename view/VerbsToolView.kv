@@ -1,9 +1,11 @@
 # Filename: VerbsToolView.kv
+#:include view/Statistics.kv
 
 <VerbsToolView>:
     MDBoxLayout:
         orientation: 'vertical'
         size: root.width, root.height
+        spacing: root.height * 0.01
 
         MDTopAppBar:
             title: "Die Verben lernen"
@@ -14,3 +16,102 @@
             padding: [root.width * 0.01, root.height * 0.01, root.width * 0.01, root.height * 0.01]
             size: root.width, root.height
             spacing: root.height * 0.01
+#=======================================================================================================================
+            MDGridLayout:
+                cols: 3
+                spacing: root.height * 0.05
+                padding: [0, root.width*0.01, 0, root.width*0.01]
+                size_hint: 1, 1.5
+#===============
+                MDLabel:
+                    bold: True
+                    text: 'Die Übersetzung:'
+                    size_hint: 1, 2
+                    size: self.texture_size
+
+                MDTextField:
+                    mode: 'rectangle'
+                    hint_text: ''
+                    id: translation
+                    disabled: True
+                    size_hint: 2, 2
+                    halign: 'center'
+                    padding_y: [self.height / 2.0 - (self.line_height / 2.0) * len(self._lines), 0]
+
+                MDRaisedButton:
+                    text: 'Übersetzung anzeigen'
+                    size_hint: 0.5, 2
+                    on_press: root.on_show_translation()
+#===============
+                MDLabel:
+                    bold: True
+                    text: 'Das Hilfsverb:'
+                    size_hint: 1, 2
+                    size: self.texture_size
+
+                MDTextField:
+                    mode: 'rectangle'
+                    hint_text: ''
+                    id: auxiliary_verb
+                    disabled: True
+                    #font_size: 50
+                    size_hint: 2, 2
+                    halign: 'center'
+                    padding_y: [self.height / 2.0 - (self.line_height / 2.0) * len(self._lines), 0]
+
+                MDRaisedButton:
+                    text: 'Hilfsverb anzeigen'
+                    size_hint: 0.5, 2
+                    on_press: root.on_show_auxiliary_verb()
+#=======================================================================================================================
+            MDBoxLayout:
+                orientation: 'vertical'
+                spacing: root.width * 0.01
+                size_hint: 1, 0.5
+
+                MDLabel:
+                    bold: True
+                    halign: "center"
+                    text: 'Did you guess right?'
+                    size: self.texture_size
+#=======================================================================================================================
+            MDBoxLayout:
+                orientation: 'horizontal'
+                spacing: root.height * 0.01
+                size_hint: 1, 0.5
+
+                MDRaisedButton:
+                    id: log_no
+                    text: 'Nein'
+                    size_hint: 0.25, 1
+                    on_press: root.on_no()
+
+                MDRaisedButton:
+                    id: log_yes
+                    text: 'Ja'
+                    size_hint: 0.25, 1
+                    on_press: root.on_yes()
+#=======================================================================================================================
+            Statistics:
+                id:stat
+#=======================================================================================================================
+            MDBoxLayout:
+                orientation: 'vertical'
+                spacing: root.width * 0.01
+                size_hint: 1, 1
+
+                MDRaisedButton:
+                    text: 'Datei öffnen'
+                    size_hint: 1, 1
+                    on_press: root.on_press_open()
+
+                MDTextField:
+                    mode: "rectangle"
+                    id: file_path
+                    disabled: True
+                    multiline: False
+                    font_size: 25
+                    size_hint: 1, 1
+                    halign: 'center'
+                    padding_y: [self.height / 2.0 - (self.line_height / 2.0) * len(self._lines), 0]
+#=======================================================================================================================

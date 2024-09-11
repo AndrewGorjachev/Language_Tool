@@ -2,12 +2,13 @@ from kivy.uix.screenmanager import Screen
 
 from controller.GenderController import GenderController
 from view.AskSplashView import AskSplashView
+from view.CommonToolView import CommonToolView
 from view.OpenDialogView import OpenDialogView
 from view.OpenSplashView import OpenSplashView
 from view.SaveDialogView import SaveDialogView
 
 
-class GenderToolView(Screen):
+class GenderToolView(Screen, CommonToolView):
     def __init__(self, default_color, **kwargs):
         super(GenderToolView, self).__init__(**kwargs)
         self.controller = GenderController()
@@ -35,38 +36,6 @@ class GenderToolView(Screen):
         if translation:
             OpenSplashView("Translation", translation)
 
-    def on_press_new_word(self):
-        article = self.ids.article.text
-        word = self.ids.word.text
-        translation = self.ids.translation.text
-
-        if article == "der" or \
-                article == "die" or \
-                article == "das":
-            pass
-        else:
-            OpenSplashView("Warning", "The article field is missing.")
-            return
-        if not word:
-            OpenSplashView("Warning", "The word field is missing.")
-            return
-        if not translation:
-            OpenSplashView("Warning", "The translation field is missing.")
-            return
-        self.controller.add_new_entry(article, word, translation)
-
-    def set_total_answers(self, total_answers):
-        self.ids.total_answers.text = str(total_answers)
-
-    def set_right_answers(self, right_answers):
-        self.ids.total_of_right_answers.text = str(right_answers)
-
-    def set_wrong_answers(self, wrong_answers: int):
-        self.ids.total_of_wrong_answers.text = str(wrong_answers)
-
-    def set_total_words(self, total_words):
-        self.ids.total_of_words.text = str(total_words)
-
     def set_color(self, name, color):
         col = None
         botton = None
@@ -93,14 +62,8 @@ class GenderToolView(Screen):
         self.ids.checkFemale.md_bg_color = self.default_color
         self.ids.checkNeutral.md_bg_color = self.default_color
 
-    def set_data_path(self, file_path):
-        self.ids.file_path.text = file_path
-
     def get_data_path(self):
         return self.ids.file_path.text
-
-    def on_press_open(self):
-        OpenDialogView(self.controller.set_data_path)
 
     def on_press_default(self):
         OpenDialogView(self.controller.set_data_path, True)
@@ -111,15 +74,11 @@ class GenderToolView(Screen):
         else:
             self.show_warning("No data loaded.")
 
-    def show_warning(self, warning_message):
-        OpenSplashView("Warning", warning_message)
-
-    def show_mistake(self, right_answer):
-        OpenSplashView("Mistake", right_answer)
-
-    def show_ask(self, question_message):
-        dialog = AskSplashView("", question_message, self.controller.repeat_cb)
-        dialog.open()
+    def on_press_save_mistakes(self):
+        if self.controller.to_repeat and len(self.controller.to_repeat) > 0:
+            SaveDialogView(self.controller.save_mistakes, self.controller.new_file)
+        else:
+            self.show_warning("There are no mistakes to save.")
 
     def show_congratulation(self, congratulation_message):
         OpenSplashView("Congratulations", congratulation_message)

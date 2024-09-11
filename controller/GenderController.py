@@ -91,6 +91,15 @@ class GenderController(CommonController):
         except:
             self.view.show_warning("Access file error.")
 
+    def save_mistakes(self, path):
+        try:
+            if self.to_repeat:
+                self.model.set_data_set(self.to_repeat, path)
+            else:
+                self.view.show_warning("No data loaded.")
+        except:
+            self.view.show_warning("Access file error.")
+
     def get_translation(self):
         if self.data:
             word_id = self.random_list[self.current_step]
@@ -98,15 +107,3 @@ class GenderController(CommonController):
         else:
             self.view.show_warning("Nothing to learn. No data loaded.")
             return None
-
-    def add_new_entry(self, article, word, translation):
-        new_data_entry = GenderEntry(article, word, translation)
-        if self.data:
-            if not self._check_if_exist(word):
-                self.data.update({self.total_words: new_data_entry})
-                self._reset_statistic()
-                self._update_statistics()
-            else:
-                self.view.show_warning("The entry already exists ")
-        else:
-            self.view.show_warning("No data loaded.")

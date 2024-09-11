@@ -1,39 +1,34 @@
+from model.CommonModel import CommonModel
 from model.WordsData import WordsEntry
 
 
-class WordsModel:
+class WordsModel(CommonModel):
     def __init__(self, data_path):
-        self.data_path = data_path
+        CommonModel.__init__(self, data_path)
 
     def get_data_set(self):
-        lines = None
+        lines = self._get_lines()
         data_buff = []
         output_data_set = {}
         counter = 0
 
-        try:
-            with open(self.data_path, encoding="utf8") as dataSet:
-                lines = dataSet.readlines()
-
-            if lines and len(lines) > 1:
-                # Handle data here
-                for line in lines:
-                    data = line.split("|")
-                    if len(data) == 2:
-                        data_entry = WordsEntry(data[0].strip(), data[1].strip())
-                        output_data_set.update({counter: data_entry})
-                        counter += 1
-                    if len(data) == 3:
-                        data_entry = WordsEntry(data[1].strip(), data[2].strip())
-                        output_data_set.update({counter: data_entry})
-                        counter += 1
-                    word = data_entry.get_word()
-                    if word in data_buff:
-                        print(word)
-                    else:
-                        data_buff.append(word)
-        except:
-            pass
+        if lines and len(lines) > 1:
+            # Handle data here
+            for line in lines:
+                data = line.split("|")
+                if len(data) == 2:
+                    data_entry = WordsEntry(data[0].strip(), data[1].strip())
+                    output_data_set.update({counter: data_entry})
+                    counter += 1
+                if len(data) == 3:
+                    data_entry = WordsEntry(data[1].strip(), data[2].strip())
+                    output_data_set.update({counter: data_entry})
+                    counter += 1
+                word = data_entry.get_word()
+                if word in data_buff:
+                    print(word)
+                else:
+                    data_buff.append(word)
 
         return output_data_set
 

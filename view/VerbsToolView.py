@@ -1,6 +1,41 @@
+from gettext import translation
+
 from kivy.uix.screenmanager import Screen
+from controller.VerbsController import VerbsController
+from view.CommonToolView import CommonToolView
 
 
-class VerbsToolView(Screen):
+class VerbsToolView(Screen, CommonToolView):
     def __init__(self, default_color, **kwargs):
         super(VerbsToolView, self).__init__(**kwargs)
+        self.controller = VerbsController()
+        self.controller.set_view(self)
+        self.default_color = default_color
+
+    # to do: delete
+    def on_press_check(self):
+        self.controller.check_answer("self.ids.answer_to_check.text")
+
+    def on_show_translation(self):
+        translation = self.controller.get_translation()
+        if translation:
+            self.ids.translation.text = translation
+        else:
+            self.show_warning("Nothing to learn. No data loaded.")
+
+    def on_show_auxiliary_verb(self):
+        auxiliary_verb = self.controller.get_auxiliary_verb()
+        if auxiliary_verb:
+            self.ids.auxiliary_verb.text = auxiliary_verb
+        else:
+            self.show_warning("Nothing to learn. No data loaded.")
+
+    def on_yes(self):
+        self.controller.check_answer("yes")
+
+    def on_no(self):
+        self.controller.check_answer("no")
+
+    def set_translation(self, translation):
+        self.ids.translation.text = translation
+        self.ids.auxiliary_verb.text = ""

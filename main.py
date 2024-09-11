@@ -26,8 +26,6 @@ class LanguageTool(MDApp):
         return self.sm
 
     def change_screen(self, screen_name):
-        print("change_screen")
-        print(screen_name)
         self.sm.current = screen_name
 
 

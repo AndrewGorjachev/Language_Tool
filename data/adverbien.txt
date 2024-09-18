@@ -44,3 +44,4 @@ wohl|наверное
 weiter|дальше
 demnächst|в ближайшее время
 umsonst|напрасно
+sodass|чтобы

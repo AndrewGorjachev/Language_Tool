@@ -265,3 +265,9 @@ verteilen       |распределить                |verteilt        |verte
 schaffen        |создавать                   |schafft         |schuf           |hat geschaffen
 verändern       |менять                      |verändert       |veränderte      |hat verändert
 fördern         |способствовать              |fördert         |förderte        |hat gefördert
+jubeln          |ликовать                    |jubelt          |jubelte         |hat gejubelt
+begrüßen        |встречать                   |begrüßt         |begrüßte        |hat begrüßt
+überprüfen      |проверять                   |überprüft       |überprüfte      |hat überprüft
+ankreuzen       |отметить крестиком          |kreuzt an       |kreuzte an      |hat angekreuzt
+führen          |лидировать                  |führt           |führte          |hat geführt
+schießen        |стрелять                    |schießt         |schoss          |hat geschossen

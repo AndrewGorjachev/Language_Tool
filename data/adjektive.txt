@@ -94,3 +94,13 @@ verursacht|обусловленный
 faul|ленивый
 arbeitslos|безработный
 ehrenamtlich|добровольный
+riskant|рискованный
+wütend|разъяренный
+bereit|готовый
+ledig|холостой
+schuldig|виновный
+folgend|дальнейший
+anstrengend|утомительный
+wertvolle|ценный
+wahnsinnig|ненормальный
+unentschieden|ничейный

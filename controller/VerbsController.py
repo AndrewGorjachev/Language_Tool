@@ -12,7 +12,6 @@ class VerbsController(CommonController):
     def _init_model(self, data_path):
         self.model = VerbModel(data_path)
         self.data = self.model.get_data_set()
-        print(self.data[2].get_string())
         self._reset_statistic()
 
     def _get_random_word(self):
@@ -40,5 +39,12 @@ class VerbsController(CommonController):
         if self.data:
             random_number = self.random_list[self.current_step]
             return self.data[random_number].get_auxiliary_verb()
+        else:
+            return ""
+
+    def get_perfect_verb(self):
+        if self.data:
+            random_number = self.random_list[self.current_step]
+            return self.data[random_number].get_past_perfect()
         else:
             return ""

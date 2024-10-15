@@ -259,7 +259,6 @@ erwischen       |схватывать                  |erwischt        |erwisch
 schubsen        |толкать                     |schubst         |schubste        |hat geschubst
 folgen          |следовать                   |folgt           |folgte          |ist gefolgt
 verraten        |предавать                   |verrät          |verriet         |hat verraten
-vertrauen       |доверять                    |vertraut        |vertraute       |hat vertraut
 plaudern        |болтать                     |plaudert        |plauderte       |hat geplaudert
 verteilen       |распределить                |verteilt        |verteilte       |hat verteilt
 schaffen        |создавать                   |schafft         |schuf           |hat geschaffen
@@ -271,3 +270,21 @@ begrüßen        |встречать                   |begrüßt         |begr
 ankreuzen       |отметить крестиком          |kreuzt an       |kreuzte an      |hat angekreuzt
 führen          |лидировать                  |führt           |führte          |hat geführt
 schießen        |стрелять                    |schießt         |schoss          |hat geschossen
+streichen       |бесцельно ходить            |streicht        |strich          |ist gestrichen
+bestrafen       |наказывать                  |bestraft        |bestrafte       |hat bestraft
+leisten         |оказать                     |leistet         |leistete        |hat geleistet
+zugehören       |принадлежать                |gehört zu       |gehörte zu      |hat zugehört
+erkennen        |распознать                  |erkennt         |erkannte        |hat erkannt
+fliehen         |убегать                     |flieht          |floh            |ist geflohen
+kaputtgehen     |сломаться                   |geht kaputt     |ging kaputt     |ist kaputtgegangen
+gebrauchen      |использовать                |gebraucht       |gebrauchte      |hat gebraucht
+einziehen       |инкассировать               |zieht ein       |zog ein         |ist eingezogen
+wiederkommen    |возвратиться                |kommt wieder    |kam wieder      |ist wiedergekommen
+reinigen        |чистить                     |reinigt         |reinigte        |hat gereinigt
+zerknittern     |смять                       |zerknittert     |zerknitterte    |hat zerknittert
+massieren       |массировать                 |massiert        |massierte       |hat massiert
+verspinnen      |прясть                      |verspinnt       |verspann        |hat versponnen
+trimmen         |подрезать                   |trimmt          |trimmte         |hat getrimmt
+lassen          |оставлять                   |lässt           |ließ            |hat gelassen
+erfahren        |узнавать                    |erfährt         |erfuhr          |hat erfahren
+überqueren      |пересечь                    |überquert       |überquerte      |hat überquert

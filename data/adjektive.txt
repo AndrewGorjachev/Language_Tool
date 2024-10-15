@@ -104,3 +104,9 @@ anstrengend|утомительный
 wertvolle|ценный
 wahnsinnig|ненормальный
 unentschieden|ничейный
+peinlich|неловкий
+schwanger|беременная
+neugierig|любопытный
+möbliert|меблированный
+einsam|одинокий
+peinlich|неловкий

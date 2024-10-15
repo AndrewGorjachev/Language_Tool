@@ -45,3 +45,5 @@ weiter|дальше
 demnächst|в ближайшее время
 umsonst|напрасно
 sodass|чтобы
+seitdem|с тех пор
+mittlerweile|между тем

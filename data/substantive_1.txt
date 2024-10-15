@@ -428,3 +428,30 @@ die|Arbeitsstelle|место работы
 die|Halbzeit|тайм
 der|Übersetzer|переводчик
 der|Meister|мастер чемпион
+das|Lehrerpult|учительский стол
+das|Pult|стол
+der|Streich|шалость
+die|Kunstausstellung|художественная выставка
+der|Flugbegleiter|бортпроводник
+das|Plaudern|болтовня
+die|Schwangere|беременная
+der|Fleck|пятно
+die|Einzimmerwohnung|однокомнатная квартира
+die|Einkaufstüte|пакет для покупок
+die|Hausmeisterin|die Hausmeisterin
+das|Service|сервис
+der|Fingernagel|ноготь
+der|Aufenthalt|пребывание
+das|Anmeldeformular|регистрационная форма
+der|Ritter|рыцарь
+die|Einzelheit|деталь
+das|Versehen|недосмотр
+der|Notfall|экстренный случай
+das|Kloster|монастырь
+der|Bischof|епископ
+das|Heimweh|тоска по дому
+das|Schwert|меч
+die|Erinnerung|память/воспоминания
+der|Ritter|рыцарь
+das|Klassentreffen|встреча одноклассников
+der|Wal|кит

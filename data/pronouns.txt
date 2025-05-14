@@ -3,4 +3,4 @@ meine|моя/мои
 mich|меня/себя
 dich|тебя/себя
 mir|мне
-mit Ihnen c ним
+mit Ihnen|c ним

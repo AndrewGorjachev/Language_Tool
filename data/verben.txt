@@ -1,267 +1,346 @@
-recherchieren   |исследовать                 |recherchiert · recherchierte · hat recherchiert
-schulden        |быть должным                |schuldet        |schuldete       |hat geschuldet
-erfinden        |изобретать                  |erfindet        |erfand          |hat erfunden
-schummeln       |мухлевать                   |schummelt       |schummelte      |hat geschummelt
-verstauben      |пылиться                    |verstaubt       |verstaubte      |ist verstaubt
-vertrauen       |доверять                    |vertraut        |vertraute       |hat vertraut
-unternehmen     |предпринимать               |unternimmt      |unternahm       |hat unternommen
-verabredeten    |назначить свидание          |verabredet      |verabredete     |hat verabredet
-bewegen         |двигаться                   |bewegt          |bewegte         |hat bewegt
-umdrehen        |повернись                   |dreht um        |drehte um       |hat umgedreht
-besprechen      |обсуждать                   |bespricht       |besprach        |hat besprochen
-aufmachen       |открыть                     |macht auf       |machte auf      |hat aufgemach
-übernachten     |ночевать                    |übernachtet     |übernachtete    |hat übernachtet
-zelten          |жить в палатке              |zeltet          |zeltete         |hat gezeltet
-wackeln         |покачиваться качаться       |entschädigt     |entschädigte    |hat entschädigt
-entschädigen    |компенсировать              |entschädigt     |entschädigte    |hat entschädigt
-ausschalten     |выключать                   |schaltet aus    |schaltete aus   |hat ausgeschaltet
-vorzeigen       |показывать                  |zeigt vor       |zeigte vor      |hat vorgezeigt
-tanken          |заправиться                 |tankt           |tankte          |hat getankt
-rutschen        |скользить                   |rutscht         |rutschte        |ist gerutscht
-sperren         |закрыть                     |sperrt          |sperrte         |hat gesperrt
-kämpfen         |сражаться                   |kämpft          |kämpfte         |hat gekämpft
-aufpassen       |быть внимательным           |passt auf       |passte auf      |hat aufgepasst
-einhalten       |удерживать                  |hält ein        |hielt ein       |hat eingehalten
-sparen          |сохранять копить            |spart           |sparte          |hat gespart
-erreichen       |достигать                   |erreicht        |erreichte       |hat erreicht
-verwöhnen       |баловать                    |verwöhnt        |verwöhnte       |hat verwöhnt
-verhalten       |вести себя                  |verhält         |verhielt        |hat verhalten
-achten          |обращать внимание           |achtet          |achtete         |hat geachtet
-abnehmen        |худеть                      |nimmt ab        |nahm ab         |hat abgenommen
-bellen          |лаять                       |bellt           |bellte          |hat gebellt
-reinigen        |чистить                     |reinigt         |reinigte        |hat gereinigt
-vorlesen        |читать вслух                |liest vor       |las vor         |hat vorgelesen
-kümmern         |заботиться                  |kümmert         |kümmerte        |hat gekümmert
-ändern          |менять/изменять             |ändert          |änderte         |hat geändert
-verwenden       |использовать                |verwendet       |verwendete      |hat verwendet
-ernähren        |кормить                     |ernährt         |ernährte        |hat ernährt
-bemühen         |стараться                   |bemüht          |bemühte         |hat bemüht
-aufdrehen       |включи погромче             |dreht auf       |drehte auf      |hat aufgedreht
-ausgeben        |тратить                     |gibt aus        |gab aus         |hat ausgegeben
-erzählen        |рассказывать                |erzählt         |erzählte        |hat erzählt
-zudecken        |закрывать/накрывать         |deckt zu        |deckte zu       |hat zugedeckt
-entspannen      |расслабляться               |entspannt       |entspannte      |hat entspannt
-arbeiten        |работать                    |arbeitet        |arbeitete       |hat gearbeitet
-schenken        |подарить                    |schenkt         |schenkte        |hat geschenkt
-zugeben         |признавать                  |gibt zu         |gab zu          |hat zugegeben
-lohnen          |стоить                      |lohnt           |lohnte          |hat gelohnt
-faulenzen       |бездельничать               |faulenzt        |faulenzte       |hat gefaulenzt
-schwänzen       |прогуливать                 |schwänzt        |schwänzte       |hat geschwänzt
-aufräumen       |убирать                     |räumt auf       |räumte auf      |hat aufgeräumt
-ausruhen        |отдохнуть                   |ruht aus        |ruhte aus       |hat ausgeruht
-trampeln        |топтаться                   |trampelt        |trampelte       |hat getrampelt
-wiegen          |взвешивать                  |wiegt           |wog             |hat gewogen
-heben           |поднимать                   |hebt            |hob/hub         |hat gehoben
-wiederholen     |повторять                   |holt wieder     |holte wieder    |hat wiedergeholt
-erholen         |восстанавливаться           |erholt          |erholte         |hat erholt
-einfangen       |ловить                      |fängt ein       |fing ein        |hat eingefangen
-anfängen        |начинать                    |fängt an        |fing an         |hat angefangen
-verwandeln      |трансформировать/превращать |verwandelt      |verwandelte     |hat verwandelt
-gucken          |смотреть                    |guckt           |guckte          |hat geguckt
-entrümpeln      |вычищать                    |entrümpelt      |entrümpelte     |hat entrümpelt
-löschen         |тушение/стирание            |löscht          |löschte         |hat gelöscht
-stören          |беспокоить/мешать           |stört           |störte          |hat gestört
-wohnen          |проживать                   |wohnt           |wohnte          |hat gewohnt
-annehmen        |предполагать                |nimmt an        |nahm an         |hat angenommen
-bändigen        |усмирять/приручить          |bändigt         |bändigte        |hat gebändigt
-abnehmen        |снимать                     |nimmt ab        |nahm ab         |hat abgenommen
-antworten       |отвечать                    |antwortet       |antwortete      |hat geantwortet
-hören           |слышать                     |hört            |hörte           |hat gehört
-wünschen        |желать                      |wünscht         |wünschte        |hat gewünscht
-zerbrechen      |ломать                      |zerbricht       |zerbrach        |ist zerbrochen
-lernen          |учиться                     |lernt           |lernte          |hat gelernt
-enthalten       |содержать                   |enthält         |enthielt        |hat enthalten
-tanzen          |танцевать                   |tanzt           |tanzte          |hat getanzt
-reden           |разговаривать               |redet           |redete          |hat geredet
-einzahlen       |платить                     |zahlt ein       |zahlte ein      |hat eingezahlt
-auszahlen       |расплачиваться              |zahlt aus       |zahlte aus      |hat ausgezahlt
-bezahlen        |платить                     |bezahlt         |bezahlte        |hat bezahlt
-zahlen          |платить                     |zahlt           |zahlte          |hat gezahlt
-abholen         |подобрать                   |holt ab         |holte ab        |hat abgeholt
-entlassen       |увольнять                   |entlässt        |entließ         |hat entlassen
-entwerten       |обесценить                  |entwertet       |entwertete      |hat entwertet
-beachten        |наблюдать                   |beachtet        |beachtete       |hat beachtet
-durchstellen    |пережить                    |stellt durch    |stellte durch   |hat durchgestellt
-einreichen      |представлять на рассмотрение|reicht ein      |reichte ein     |hat eingereicht
-wählen          |выбирать                    |wählt           |wählte          |hat gewählt
-verwählen       |ошибиться в выборе          |verwählt        |verwählte       |hat verwählt
-imprägnieren    |пропитывать                 |imprägniert     |imprägnierte    |hat imprägniert
-wechseln        |менять                      |wechselt        |wechselte       |ist gewechselt
-grüßen          |приветствовать              |grüßt           |grüßte          |hat gegrüßt
-anmachen        |включать                    |macht an        |machte an       |hat angemacht
-abstürzen       |падать                      |stürzt ab       |stürzte ab      |ist abgestürzt
-gratulieren     |поздравлять                 |gratuliert      |gratulierte     |hat gratuliert
-herunterladen   |скачать                     |lädt herunter   |lud herunter    |ist heruntergeladen
-stärken         |укреплять                   |stärkt          |stärkte         |hat gestärkt
-zulassen        |позволять                   |lässt zu        |ließ zu         |hat zugelassen
-abbiegen        |заворачивать/сворачивать    |biegt ab        |bog ab          |ist abgebogen
-entschuldigen   |прощать/оправдывать         |entschuldigt    |entschuldigte   |hat entschuldigt
-erinnern        |напомнить                   |erinnert        |erinnerte       |hat erinnert
-organisieren    |организовать                |organisiert     |organisierte    |hat organisiert
-aufsuchen       |посещать(врача,больницу)    |sucht auf       |suchte auf      |hat aufgesucht
-besuchen        |посетить(друзей,концерт)    |besucht         |besuchte        |hat besucht
-ersetzen        |заменить                    |ersetzt         |ersetzte        |hat ersetzt
-erhalten        |получать/сохранять          |erhält          |erhielt         |hat erhalten
-starten         |запускать                   |startet         |startete        |ist gestartet
-verstecken      |скрывать                    |versteckt       |versteckte      |hat versteckt
-rennen          |бегать                      |rennt           |rannte          |ist gerannt
-bestellen       |заказать                    |bestellt        |bestellte       |hat bestellt
-telefonieren    |звонить по телефону         |telefoniert     |telefonierte    |hat telefoniert
-einkaufen       |покупать                    |kauft ein       |kaufte ein      |hat eingekauft
-abfahren        |отходить/уезжать            |fährt ab        |fuhr ab         |ist abgefaren
-abfliegen       |вылетать/вылетать           |fliegt ab       |flog ab         |ist abgeflogen
-abgeben         |отдавать                    |gibt ab         |gab ab          |hat abgegeben
-abschließen     |завершить                   |schließt ab     |schloss ab      |hat abgeschlossen
-anbieten        |предлагать                  |bietet an       |bot an          |hat angeboten
-anfängen        |начинать                    |fangt an        |fing an         |hat angefangen
-ankommen        |прибывать                   |kommt an        |kam an          |ist angekommen
-anrufen         |звонить по телефону         |ruft an         |rief an         |hat angerufen
-ansehen         |смотреть                    |sieht an        |sah an          |hat angesehen
-anziehen        |надевать                    |zieht an        |zog an          |hat angezogen
-aufstehen       |вставать                    |steht auf       |stand auf       |ist aufgestanden
-ausgeben        |тратить                     |gibt aus        |gab aus         |hat ausgegeben
-ausgehen        |выходить                    |geht aus        |ging aus        |ist ausgegangen
-aussehen        |выглядеть                   |sieht aus       |sah aus         |hat ausgesehen
-aussteigen      |высаживаться                |steigt aus      |stieg aus       |ist ausgestiegen
-ausziehen       |раздевать                   |zieht aus       |zog aus         |ist/hat ausgezogen
-backen          |выпекать                    |bäckt/backt     |buk/backte      |hat gebacken
-beginnen        |начать                      |beginnt         |begann          |hat begonnen
-behalten        |держать                     |behält          |behielt         |hat behalten
-bekommen        |получать                    |bekommt         |bekam           |hat bekommen
-bewerben        |подать заявление            |bewirbt         |bewarb          |hat beworben
-biegen          |сгибать                     |biegt           |bog             |hat gebogen
-bieten          |представлять                |bietet          |bot             |hat geboten
-bitten          |просить                     |bittet          |bat             |hat gebeten
-bleiben         |оставаться                  |bleibt          |blieb           |ist geblieben
-braten          |жарить                      |brät            |briet           |hat gebraten
-brechen         |сломать                     |bricht          |brach           |ist gebrochen
-brennen         |сжигать                     |brennt          |brannte         |hat gebrannt
-bringen         |приносить                   |bringt          |brachte         |hat gebracht
-denken          |думать                      |denkt           |dachte          |hat gedacht
-einfallen       |придумать                   |fällt ein       |fiel ein        |ist eingefallen
-einladen        |пригласить                  |lädt ein        |lud ein         |hat eingeladen
-einschlafen     |засыпать                    |schläft ein     |schlief ein     |ist eingeschlafen
-einsteigen      |садиться                    |steigt ein      |stieg ein       |ist eingestiegen
-einziehen       |входить                     |zieht ein       |zog             |ist eingezogen
-empfehlen       |рекомендовать               |empfiehlt       |ein empfahl     |hat empfohlen
-entscheiden     |решать                      |entscheidet     |entschied       |hat entschieden
-essen           |есть                        |isst            |aß              |hat gegessen
-fahren          |управлять автомобилем       |fahrt           |fuhr            |ist gefahren
-fallen          |падать                      |fällt           |fiel            |ist gefallen
-fangen          |ловить                      |fängt           |fing            |hat gefangen
-fernsehen       |смотреть телевизор          |sieht fern      |sah fem         |hat ferngesehen
-finden          |найти                       |findet          |fand            |hat gefunden
-fliegen         |летать                      |fliegt          |flog            |ist geflogen
-geben           |давать                      |gibt            |gab             |hat gegeben
-gefallen        |нравиться                   |gefalt          |gefiel          |hat gefallen
-gehen           |идти                        |geht            |ging            |ist gegangen
-geschehen       |происходить                 |geschieht       |geschah         |ist geschehen
-gewinnen        |выиграть                    |gewinnt         |gewann          |hat gewonnen
-haben           |иметь                       |hat             |hatte           |hat gehabt
-halten          |держать                     |halt            |hielt           |hat gehalten
-hängen          |висеть                      |hangt           |hing            |hat gehängt/gehangen
-heißen          |называться                  |heiß            |hieß            |hat geheißen
-helfen          |помогать                    |hilft           |half            |hat geholfen
-kennen          |знать                       |kennt           |kannte          |hat gekannt
-klingen         |звучать                     |klingt          |klang           |hat geklungen
-kommen          |приходить                   |kommt           |kam             |ist gekommen
-laden           |нагружать                   |lädt            |lud             |hat geladen
-lassen          |оставлять                   |lässt           |ließ            |hat gelassen
-laufen          |бежать                      |läuft           |lief            |ist gelaufen
-eislaufen       |катание на коньках          |läuft eis       |lief eis        |ist eisgelaufen
-leidtun         |сожалеть                    |tut leid        |tat leid        |hat leidgetan
-leihen          |одолжить                    |leiht           |lieh            |hat geliehen
-lesen           |читать                      |liest           |las             |hat gelesen
-liegen          |лежать                      |liegt           |lag             |hat gelegen
-losfahren       |отправляться                |fährt los       |fuhr los        |ist losgefahren
-mitbringen      |принести с собой            |bringt mit      |brachte mit     |hat mitgebracht
-mitkommen       |идти вместе                 |kommt mit       |kam mit         |ist mitgekommen
-mitnehmen       |забрать с собой             |nimmt mit       |nahm mit        |hat mitgenommen
-mögen           |нравиться                   |mag             |mochte          |hat gemocht
-nehmen          |брать                       |nimmt           |nahm            |hat genommen
-nennen          |называть                    |nennt           |nannte          |hat genannt
-raten           |предполагать                |rät             |riet            |hat geraten
-riechen         |обонять                     |riecht          |roch            |hat gerochen
-rufen           |звать                       |ruft            |rief            |hat gerufen
-scheinen        |казаться                    |scheint         |schien          |hat geschienen
-schlafen        |спать                       |schläft         |schlief         |hat geschlafen
-schlagen        |бить/ударять                |schlagt         |schlug          |hat geschlagen
-schließen       |закрывать/запирать          |schließt        |schloss         |hat geschlossen
-schneiden       |резать/пилить               |schneidet       |schnitt         |hat geschnitten
-schreiben       |писать                      |schreibt        |schrieb         |hat geschrieben
-schwimmen       |плавать                     |schwimmt        |schwamm         |ist geschwommen
-sehen           |видеть                      |sieht           |sah             |hat gesehen
-sein            |быть                        |ist             |war             |ist gewesen
-singen          |петь                        |singt           |sang            |hat gesungen
-sinken          |опуститься                  |sinkt           |sank            |ist gesunken
-sitzen          |сидеть                      |sitzt           |saß             |hat ist gesessen
-spazieren gehen |идти гулять                 |geht spazieren  |ging spazieren  |ist spazieren gegangen
-sprechen        |разговаривать               |spricht         |sprach          |hat gesprochen
-springen        |прыгать                     |springt         |sprang          |ist gesprungen
-stattfinden     |иметь место                 |findet statt    |fand statt      |hat stattgefunden
-stehen          |стоять                      |steht           |stand           |hat/ist gestanden
-stehlen         |красть/воровать             |stiehlt         |stahl           |hat gestohlen
-steigen         |подниматься                 |steigt          |stieg           |ist gestiegen
-sterben         |умирать                     |stribt          |starb           |ist gestorben
-streiten        |ссориться                   |streitet        |stritt          |hat gestritten
-teilnehmen      |участвовать                 |nimmt teil      |nahm teil       |hat telgenommen
-tragen          |носить                      |trägt           |trug            |hat getragen
-treiben         |гнать/гонять                |treibt          |trieb           |hat getrieben
-treffen         |встречаться                 |trifft          |traf            |hat getroffen
-treten          |вступить                    |tritt           |trat            |hat getreten
-trinken         |пить                        |trinkt          |trank           |hat getrunken
-tun             |делать                      |tut             |tat             |hat getan
-übertragen      |передавать                  |überträgt       |übertrug        |hat übertragen
-überweisen      |переводить                  |überweist       |uberwies        |hat überwiesen
-umsteigen       |пересаживаться              |steigt um       |stieg um        |ist umgestiegen
-umziehen        |переезжать                  |zieht um        |zog um          |hat/ist umgezogen
-unterhalten     |поддерживать                |unterhalt       |unterhielt      |hat unterhalten
-unternehmen     |предпринять                 |unternimmt      |unternahm       |hat unternommen
-unterschreiben  |подписывать                 |unterschreibt   |unterschrieb    |hat unterschrieben
-verbringen      |проводить                   |verbringt       |verbrachte      |hat verbracht
-vergessen       |забывать                    |vergisst        |vergaß          |hat vergessen
-vergleichen     |сравнивать                  |vergleicht      |verglich        |hat verglichen
-verlieren       |потерять                    |verliert        |verlor          |hat verloren
-verschieben     |перемещать                  |verschiebt      |verschob        |hat verschoben
-verschwinden    |исчезать                    |verschwindet    |verschwand      |ist verschwunden
-versprechen     |обещать                     |verspricht      |versprach       |hat versprochen
-verstehen       |понимать                    |versteht        |verstand        |hat verstanden
-vorschlagen     |предложить                  |schlägt vor     |schlug vor      |hat vorgeschlagen
-vorstellen      |представлять                |stellt vor      |stellte vor     |hat vorgestellt
-wachsen         |расти                       |wächst          |wuchs           |ist gewachsen
-waschen         |мыть                        |wäscht          |wusch           |hat gewaschen
-weggehen        |уходить                     |geht weg        |ging weg        |ist weggegangen
-wegwerfen       |выбрасывать                 |wirft weg       |warf weg        |hat weggeworfen
-wehtun          |причинить боль              |tut weh         |tat weh         |hat wehgetan
-werden          |становиться                 |wird            |wurde           |ist geworden
-werfen          |бросать                     |wirft           |warf            |hat geworfen
-wissen          |знать                       |weiß            |wusste          |hat gewusst
-ziehen          |тянуть                      |zieht           |zog             |hat gezogen
-zurechtkommen   |справляться                 |kommt zurecht   |kam zurecht     |ist zurechtgekommen
-zuruckkommen    |возвращаться                |kommt zurück    |kam zurück      |ist zurückgekommen
-einpacken       |заворачивать                |packt ein       |packte ein      |hat eingepackt
-ausziehen       |раздеться                   |zieht aus       |zog aus         |ist ausgezogen
-überlegen       |обдумывать                  |überlegt        |überlegte       |hat überlegt
-retten          |спасать                     |rettet          |rettete         |hat gerettet
-berichten       |рассказывать                |berichtet       |berichtete      |hat berichtet
-nennen          |назвать                     |nennt           |nannte          |hat genannt
-einbrechen      |вламываться                 |bricht ein      |brach ein       |ist eingebrochen
-weglaufen       |убегать                     |läuft weg       |lief weg        |ist weggelaufen
-anschauen       |посмотреть                  |schaut an       |schaute an      |hat angeschaut
-regieren        |править                     |regiert         |regierte        |hat regiert
-vorbereiten     |подготовить                 |bereitet vor    |bereitete vor   |hat vorbereitet
-aussuchen       |выбирать                    |sucht aus       |suchte aus      |hat ausgesucht
-beobachten      |наблюдать                   |beobachtet      |beobachtete     |hat beobachtet
-abschreiben     |списывать                   |schreibt ab     |schrieb ab      |hat abgeschrieben
-erlassen        |опубликовывать              |erlässt         |erließ          |hat erlassen
-umarmen         |обнимать                    |umarmt          |umarmte         |hat umarmt
-erwischen       |схватывать                  |erwischt        |erwischte       |hat erwischt
-schubsen        |толкать                     |schubst         |schubste        |hat geschubst
-folgen          |следовать                   |folgt           |folgte          |ist gefolgt
-verraten        |предавать                   |verrät          |verriet         |hat verraten
-vertrauen       |доверять                    |vertraut        |vertraute       |hat vertraut
-plaudern        |болтать                     |plaudert        |plauderte       |hat geplaudert
-verteilen       |распределить                |verteilt        |verteilte       |hat verteilt
-schaffen        |создавать                   |schafft         |schuf           |hat geschaffen
-verändern       |менять                      |verändert       |veränderte      |hat verändert
-fördern         |способствовать              |fördert         |förderte        |hat gefördert
+recherchieren    |исследовать                  |recherchiert       |recherchierte      |hat recherchiert
+schulden         |быть должным                 |schuldet           |schuldete          |hat geschuldet
+erfinden         |изобретать                   |erfindet           |erfand             |hat erfunden
+schummeln        |мухлевать                    |schummelt          |schummelte         |hat geschummelt
+verstauben       |пылиться                     |verstaubt          |verstaubte         |ist verstaubt
+vertrauen        |доверять                     |vertraut           |vertraute          |hat vertraut
+unternehmen      |предпринимать                |unternimmt         |unternahm          |hat unternommen
+verabredeten     |назначить свидание           |verabredet         |verabredete        |hat verabredet
+bewegen          |двигаться                    |bewegt             |bewegte            |hat bewegt
+umdrehen         |повернись                    |dreht um           |drehte um          |hat umgedreht
+besprechen       |обсуждать                    |bespricht          |besprach           |hat besprochen
+aufmachen        |открыть                      |macht auf          |machte auf         |hat aufgemach
+übernachten      |ночевать                     |übernachtet        |übernachtete       |hat übernachtet
+zelten           |жить в палатке               |zeltet             |zeltete            |hat gezeltet
+wackeln          |покачиваться качаться        |entschädigt        |entschädigte       |hat entschädigt
+entschädigen     |компенсировать               |entschädigt        |entschädigte       |hat entschädigt
+ausschalten      |выключать                    |schaltet aus       |schaltete aus      |hat ausgeschaltet
+vorzeigen        |показывать                   |zeigt vor          |zeigte vor         |hat vorgezeigt
+tanken           |заправиться                  |tankt              |tankte             |hat getankt
+rutschen         |скользить                    |rutscht            |rutschte           |ist gerutscht
+sperren          |закрыть                      |sperrt             |sperrte            |hat gesperrt
+kämpfen          |сражаться                    |kämpft             |kämpfte            |hat gekämpft
+aufpassen        |быть внимательным            |passt auf          |passte auf         |hat aufgepasst
+einhalten        |удерживать                   |hält ein           |hielt ein          |hat eingehalten
+sparen           |сохранять копить             |spart              |sparte             |hat gespart
+erreichen        |достигать                    |erreicht           |erreichte          |hat erreicht
+verwöhnen        |баловать                     |verwöhnt           |verwöhnte          |hat verwöhnt
+verhalten        |вести себя                   |verhält            |verhielt           |hat verhalten
+achten           |обращать внимание            |achtet             |achtete            |hat geachtet
+abnehmen         |худеть                       |nimmt ab           |nahm ab            |hat abgenommen
+bellen           |лаять                        |bellt              |bellte             |hat gebellt
+reinigen         |чистить                      |reinigt            |reinigte           |hat gereinigt
+vorlesen         |читать вслух                 |liest vor          |las vor            |hat vorgelesen
+kümmern          |заботиться                   |kümmert            |kümmerte           |hat gekümmert
+ändern           |менять/изменять              |ändert             |änderte            |hat geändert
+verwenden        |использовать                 |verwendet          |verwendete         |hat verwendet
+ernähren         |кормить                      |ernährt            |ernährte           |hat ernährt
+bemühen          |стараться                    |bemüht             |bemühte            |hat bemüht
+aufdrehen        |включи погромче              |dreht auf          |drehte auf         |hat aufgedreht
+ausgeben         |тратить                      |gibt aus           |gab aus            |hat ausgegeben
+erzählen         |рассказывать                 |erzählt            |erzählte           |hat erzählt
+zudecken         |закрывать/накрывать          |deckt zu           |deckte zu          |hat zugedeckt
+entspannen       |расслабляться                |entspannt          |entspannte         |hat entspannt
+arbeiten         |работать                     |arbeitet           |arbeitete          |hat gearbeitet
+schenken         |подарить                     |schenkt            |schenkte           |hat geschenkt
+zugeben          |признавать                   |gibt zu            |gab zu             |hat zugegeben
+lohnen           |стоить                       |lohnt              |lohnte             |hat gelohnt
+faulenzen        |бездельничать                |faulenzt           |faulenzte          |hat gefaulenzt
+schwänzen        |прогуливать                  |schwänzt           |schwänzte          |hat geschwänzt
+aufräumen        |убирать                      |räumt auf          |räumte auf         |hat aufgeräumt
+ausruhen         |отдохнуть                    |ruht aus           |ruhte aus          |hat ausgeruht
+trampeln         |топтаться                    |trampelt           |trampelte          |hat getrampelt
+wiegen           |взвешивать                   |wiegt              |wog                |hat gewogen
+heben            |поднимать                    |hebt               |hob/hub            |hat gehoben
+wiederholen      |повторять                    |holt wieder        |holte wieder       |hat wiedergeholt
+erholen          |восстанавливаться            |erholt             |erholte            |hat erholt
+einfangen        |ловить                       |fängt ein          |fing ein           |hat eingefangen
+anfängen         |начинать                     |fängt an           |fing an            |hat angefangen
+verwandeln       |трансформировать/превращать  |verwandelt         |verwandelte        |hat verwandelt
+gucken           |смотреть                     |guckt              |guckte             |hat geguckt
+entrümpeln       |вычищать                     |entrümpelt         |entrümpelte        |hat entrümpelt
+löschen          |тушение/стирание             |löscht             |löschte            |hat gelöscht
+stören           |беспокоить/мешать            |stört              |störte             |hat gestört
+wohnen           |проживать                    |wohnt              |wohnte             |hat gewohnt
+annehmen         |предполагать                 |nimmt an           |nahm an            |hat angenommen
+bändigen         |усмирять/приручить           |bändigt            |bändigte           |hat gebändigt
+abnehmen         |снимать                      |nimmt ab           |nahm ab            |hat abgenommen
+antworten        |отвечать                     |antwortet          |antwortete         |hat geantwortet
+hören            |слышать                      |hört               |hörte              |hat gehört
+wünschen         |желать                       |wünscht            |wünschte           |hat gewünscht
+zerbrechen       |ломать                       |zerbricht          |zerbrach           |ist zerbrochen
+lernen           |учиться                      |lernt              |lernte             |hat gelernt
+enthalten        |содержать                    |enthält            |enthielt           |hat enthalten
+tanzen           |танцевать                    |tanzt              |tanzte             |hat getanzt
+reden            |разговаривать                |redet              |redete             |hat geredet
+einzahlen        |платить                      |zahlt ein          |zahlte ein         |hat eingezahlt
+auszahlen        |расплачиваться               |zahlt aus          |zahlte aus         |hat ausgezahlt
+bezahlen         |платить                      |bezahlt            |bezahlte           |hat bezahlt
+zahlen           |платить                      |zahlt              |zahlte             |hat gezahlt
+abholen          |подобрать                    |holt ab            |holte ab           |hat abgeholt
+entlassen        |увольнять                    |entlässt           |entließ            |hat entlassen
+entwerten        |обесценить                   |entwertet          |entwertete         |hat entwertet
+beachten         |наблюдать                    |beachtet           |beachtete          |hat beachtet
+durchstellen     |пережить                     |stellt durch       |stellte durch      |hat durchgestellt
+einreichen       |представлять на рассмотрение |reicht ein         |reichte ein        |hat eingereicht
+wählen           |выбирать                     |wählt              |wählte             |hat gewählt
+verwählen        |ошибиться в выборе           |verwählt           |verwählte          |hat verwählt
+imprägnieren     |пропитывать                  |imprägniert        |imprägnierte       |hat imprägniert
+wechseln         |менять                       |wechselt           |wechselte          |ist gewechselt
+grüßen           |приветствовать               |grüßt              |grüßte             |hat gegrüßt
+anmachen         |включать                     |macht an           |machte an          |hat angemacht
+abstürzen        |падать                       |stürzt ab          |stürzte ab         |ist abgestürzt
+gratulieren      |поздравлять                  |gratuliert         |gratulierte        |hat gratuliert
+herunterladen    |скачать                      |lädt herunter      |lud herunter       |ist heruntergeladen
+stärken          |укреплять                    |stärkt             |stärkte            |hat gestärkt
+zulassen         |позволять                    |lässt zu           |ließ zu            |hat zugelassen
+abbiegen         |заворачивать/сворачивать     |biegt ab           |bog ab             |ist abgebogen
+entschuldigen    |прощать/оправдывать          |entschuldigt       |entschuldigte      |hat entschuldigt
+erinnern         |напомнить                    |erinnert           |erinnerte          |hat erinnert
+organisieren     |организовать                 |organisiert        |organisierte       |hat organisiert
+aufsuchen        |посещать(врача,больницу)     |sucht auf          |suchte auf         |hat aufgesucht
+besuchen         |посетить(друзей,концерт)     |besucht            |besuchte           |hat besucht
+ersetzen         |заменить                     |ersetzt            |ersetzte           |hat ersetzt
+erhalten         |получать/сохранять           |erhält             |erhielt            |hat erhalten
+starten          |запускать                    |startet            |startete           |ist gestartet
+verstecken       |скрывать                     |versteckt          |versteckte         |hat versteckt
+rennen           |бегать                       |rennt              |rannte             |ist gerannt
+bestellen        |заказать                     |bestellt           |bestellte          |hat bestellt
+telefonieren     |звонить по телефону          |telefoniert        |telefonierte       |hat telefoniert
+einkaufen        |покупать                     |kauft ein          |kaufte ein         |hat eingekauft
+abfahren         |отходить/уезжать             |fährt ab           |fuhr ab            |ist abgefaren
+abfliegen        |вылетать/вылетать            |fliegt ab          |flog ab            |ist abgeflogen
+abgeben          |отдавать                     |gibt ab            |gab ab             |hat abgegeben
+abschließen      |завершить                    |schließt ab        |schloss ab         |hat abgeschlossen
+anbieten         |предлагать                   |bietet an          |bot an             |hat angeboten
+anfängen         |начинать                     |fangt an           |fing an            |hat angefangen
+ankommen         |прибывать                    |kommt an           |kam an             |ist angekommen
+anrufen          |звонить по телефону          |ruft an            |rief an            |hat angerufen
+ansehen          |смотреть                     |sieht an           |sah an             |hat angesehen
+anziehen         |надевать                     |zieht an           |zog an             |hat angezogen
+aufstehen        |вставать                     |steht auf          |stand auf          |ist aufgestanden
+ausgeben         |тратить                      |gibt aus           |gab aus            |hat ausgegeben
+ausgehen         |выходить                     |geht aus           |ging aus           |ist ausgegangen
+aussehen         |выглядеть                    |sieht aus          |sah aus            |hat ausgesehen
+aussteigen       |высаживаться                 |steigt aus         |stieg aus          |ist ausgestiegen
+ausziehen        |раздевать                    |zieht aus          |zog aus            |ist/hat ausgezogen
+backen           |выпекать                     |bäckt/backt        |buk/backte         |hat gebacken
+beginnen         |начать                       |beginnt            |begann             |hat begonnen
+behalten         |держать                      |behält             |behielt            |hat behalten
+bekommen         |получать                     |bekommt            |bekam              |hat bekommen
+bewerben         |подать заявление             |bewirbt            |bewarb             |hat beworben
+biegen           |сгибать                      |biegt              |bog                |hat gebogen
+bieten           |представлять                 |bietet             |bot                |hat geboten
+bitten           |просить                      |bittet             |bat                |hat gebeten
+bleiben          |оставаться                   |bleibt             |blieb              |ist geblieben
+braten           |жарить                       |brät               |briet              |hat gebraten
+brechen          |сломать                      |bricht             |brach              |ist gebrochen
+brennen          |сжигать                      |brennt             |brannte            |hat gebrannt
+bringen          |приносить                    |bringt             |brachte            |hat gebracht
+denken           |думать                       |denkt              |dachte             |hat gedacht
+einfallen        |придумать                    |fällt ein          |fiel ein           |ist eingefallen
+einladen         |пригласить                   |lädt ein           |lud ein            |hat eingeladen
+einschlafen      |засыпать                     |schläft ein        |schlief ein        |ist eingeschlafen
+einsteigen       |садиться                     |steigt ein         |stieg ein          |ist eingestiegen
+einziehen        |входить                      |zieht ein          |zog                |ist eingezogen
+empfehlen        |рекомендовать                |empfiehlt          |ein empfahl        |hat empfohlen
+entscheiden      |решать                       |entscheidet        |entschied          |hat entschieden
+essen            |есть                         |isst               |aß                 |hat gegessen
+fahren           |управлять автомобилем        |fahrt              |fuhr               |ist gefahren
+fallen           |падать                       |fällt              |fiel               |ist gefallen
+fangen           |ловить                       |fängt              |fing               |hat gefangen
+fernsehen        |смотреть телевизор           |sieht fern         |sah fem            |hat ferngesehen
+finden           |найти                        |findet             |fand               |hat gefunden
+fliegen          |летать                       |fliegt             |flog               |ist geflogen
+geben            |давать                       |gibt               |gab                |hat gegeben
+gefallen         |нравиться                    |gefalt             |gefiel             |hat gefallen
+gehen            |идти                         |geht               |ging               |ist gegangen
+geschehen        |происходить                  |geschieht          |geschah            |ist geschehen
+gewinnen         |выиграть                     |gewinnt            |gewann             |hat gewonnen
+haben            |иметь                        |hat                |hatte              |hat gehabt
+halten           |держать                      |halt               |hielt              |hat gehalten
+hängen           |висеть                       |hangt              |hing               |hat gehängt/gehangen
+heißen           |называться                   |heiß               |hieß               |hat geheißen
+helfen           |помогать                     |hilft              |half               |hat geholfen
+kennen           |знать                        |kennt              |kannte             |hat gekannt
+klingen          |звучать                      |klingt             |klang              |hat geklungen
+kommen           |приходить                    |kommt              |kam                |ist gekommen
+laden            |нагружать                    |lädt               |lud                |hat geladen
+lassen           |оставлять                    |lässt              |ließ               |hat gelassen
+laufen           |бежать                       |läuft              |lief               |ist gelaufen
+eislaufen        |катание на коньках           |läuft eis          |lief eis           |ist eisgelaufen
+leidtun          |сожалеть                     |tut leid           |tat leid           |hat leidgetan
+leihen           |одолжить                     |leiht              |lieh               |hat geliehen
+lesen            |читать                       |liest              |las                |hat gelesen
+liegen           |лежать                       |liegt              |lag                |hat gelegen
+losfahren        |отправляться                 |fährt los          |fuhr los           |ist losgefahren
+mitbringen       |принести с собой             |bringt mit         |brachte mit        |hat mitgebracht
+mitkommen        |идти вместе                  |kommt mit          |kam mit            |ist mitgekommen
+mitnehmen        |забрать с собой              |nimmt mit          |nahm mit           |hat mitgenommen
+mögen            |нравиться                    |mag                |mochte             |hat gemocht
+nehmen           |брать                        |nimmt              |nahm               |hat genommen
+nennen           |называть                     |nennt              |nannte             |hat genannt
+raten            |предполагать                 |rät                |riet               |hat geraten
+riechen          |обонять                      |riecht             |roch               |hat gerochen
+rufen            |звать                        |ruft               |rief               |hat gerufen
+scheinen         |казаться                     |scheint            |schien             |hat geschienen
+schlafen         |спать                        |schläft            |schlief            |hat geschlafen
+schlagen         |бить/ударять                 |schlagt            |schlug             |hat geschlagen
+schließen        |закрывать/запирать           |schließt           |schloss            |hat geschlossen
+schneiden        |резать/пилить                |schneidet          |schnitt            |hat geschnitten
+schreiben        |писать                       |schreibt           |schrieb            |hat geschrieben
+schwimmen        |плавать                      |schwimmt           |schwamm            |ist geschwommen
+sehen            |видеть                       |sieht              |sah                |hat gesehen
+sein             |быть                         |ist                |war                |ist gewesen
+singen           |петь                         |singt              |sang               |hat gesungen
+sinken           |опуститься                   |sinkt              |sank               |ist gesunken
+sitzen           |сидеть                       |sitzt              |saß                |hat ist gesessen
+spazieren gehen  |идти гулять                  |geht spazieren     |ging spazieren     |ist spazieren gegangen
+sprechen         |разговаривать                |spricht            |sprach             |hat gesprochen
+springen         |прыгать                      |springt            |sprang             |ist gesprungen
+stattfinden      |иметь место                  |findet statt       |fand statt         |hat stattgefunden
+stehen           |стоять                       |steht              |stand              |hat/ist gestanden
+stehlen          |красть/воровать              |stiehlt            |stahl              |hat gestohlen
+steigen          |подниматься                  |steigt             |stieg              |ist gestiegen
+sterben          |умирать                      |stribt             |starb              |ist gestorben
+streiten         |ссориться                    |streitet           |stritt             |hat gestritten
+teilnehmen       |участвовать                  |nimmt teil         |nahm teil          |hat telgenommen
+tragen           |носить                       |trägt              |trug               |hat getragen
+treiben          |гнать/гонять                 |treibt             |trieb              |hat getrieben
+treffen          |встречаться                  |trifft             |traf               |hat getroffen
+treten           |вступить                     |tritt              |trat               |hat getreten
+trinken          |пить                         |trinkt             |trank              |hat getrunken
+tun              |делать                       |tut                |tat                |hat getan
+übertragen       |передавать                   |überträgt          |übertrug           |hat übertragen
+überweisen       |переводить                   |überweist          |uberwies           |hat überwiesen
+umsteigen        |пересаживаться               |steigt um          |stieg um           |ist umgestiegen
+umziehen         |переезжать                   |zieht um           |zog um             |hat/ist umgezogen
+unterhalten      |поддерживать                 |unterhalt          |unterhielt         |hat unterhalten
+unternehmen      |предпринять                  |unternimmt         |unternahm          |hat unternommen
+unterschreiben   |подписывать                  |unterschreibt      |unterschrieb       |hat unterschrieben
+verbringen       |проводить                    |verbringt          |verbrachte         |hat verbracht
+vergessen        |забывать                     |vergisst           |vergaß             |hat vergessen
+vergleichen      |сравнивать                   |vergleicht         |verglich           |hat verglichen
+verlieren        |потерять                     |verliert           |verlor             |hat verloren
+verschieben      |перемещать                   |verschiebt         |verschob           |hat verschoben
+verschwinden     |исчезать                     |verschwindet       |verschwand         |ist verschwunden
+versprechen      |обещать                      |verspricht         |versprach          |hat versprochen
+verstehen        |понимать                     |versteht           |verstand           |hat verstanden
+vorschlagen      |предложить                   |schlägt vor        |schlug vor         |hat vorgeschlagen
+vorstellen       |представлять                 |stellt vor         |stellte vor        |hat vorgestellt
+wachsen          |расти                        |wächst             |wuchs              |ist gewachsen
+waschen          |мыть                         |wäscht             |wusch              |hat gewaschen
+weggehen         |уходить                      |geht weg           |ging weg           |ist weggegangen
+wegwerfen        |выбрасывать                  |wirft weg          |warf weg           |hat weggeworfen
+wehtun           |причинить боль               |tut weh            |tat weh            |hat wehgetan
+werden           |становиться                  |wird               |wurde              |ist geworden
+werfen           |бросать                      |wirft              |warf               |hat geworfen
+wissen           |знать                        |weiß               |wusste             |hat gewusst
+ziehen           |тянуть                       |zieht              |zog                |hat gezogen
+zurechtkommen    |справляться                  |kommt zurecht      |kam zurecht        |ist zurechtgekommen
+zuruckkommen     |возвращаться                 |kommt zurück       |kam zurück         |ist zurückgekommen
+einpacken        |заворачивать                 |packt ein          |packte ein         |hat eingepackt
+ausziehen        |раздеться                    |zieht aus          |zog aus            |ist ausgezogen
+überlegen        |обдумывать                   |überlegt           |überlegte          |hat überlegt
+retten           |спасать                      |rettet             |rettete            |hat gerettet
+berichten        |рассказывать                 |berichtet          |berichtete         |hat berichtet
+nennen           |назвать                      |nennt              |nannte             |hat genannt
+einbrechen       |вламываться                  |bricht ein         |brach ein          |ist eingebrochen
+weglaufen        |убегать                      |läuft weg          |lief weg           |ist weggelaufen
+anschauen        |посмотреть                   |schaut an          |schaute an         |hat angeschaut
+regieren         |править                      |regiert            |regierte           |hat regiert
+vorbereiten      |подготовить                  |bereitet vor       |bereitete vor      |hat vorbereitet
+aussuchen        |выбирать                     |sucht aus          |suchte aus         |hat ausgesucht
+beobachten       |наблюдать                    |beobachtet         |beobachtete        |hat beobachtet
+abschreiben      |списывать                    |schreibt ab        |schrieb ab         |hat abgeschrieben
+erlassen         |опубликовывать               |erlässt            |erließ             |hat erlassen
+umarmen          |обнимать                     |umarmt             |umarmte            |hat umarmt
+erwischen        |схватывать                   |erwischt           |erwischte          |hat erwischt
+schubsen         |толкать                      |schubst            |schubste           |hat geschubst
+folgen           |следовать                    |folgt              |folgte             |ist gefolgt
+verraten         |предавать                    |verrät             |verriet            |hat verraten
+plaudern         |болтать                      |plaudert           |plauderte          |hat geplaudert
+verteilen        |распределить                 |verteilt           |verteilte          |hat verteilt
+schaffen         |создавать                    |schafft            |schuf              |hat geschaffen
+verändern        |менять                       |verändert          |veränderte         |hat verändert
+fördern          |способствовать               |fördert            |förderte           |hat gefördert
+streben          |стремиться                   |strebt             |strebte            |hat gestrebt
+jubeln           |ликовать                     |jubelt             |jubelte            |hat gejubelt
+begrüßen         |встречать                    |begrüßt            |begrüßte           |hat begrüßt
+überprüfen       |проверять                    |überprüft          |überprüfte         |hat überprüft
+ankreuzen        |отметить крестиком           |kreuzt an          |kreuzte an         |hat angekreuzt
+führen           |лидировать                   |führt              |führte             |hat geführt
+schießen         |стрелять                     |schießt            |schoss             |hat geschossen
+streichen        |бесцельно ходить             |streicht           |strich             |ist gestrichen
+bestrafen        |наказывать                   |bestraft           |bestrafte          |hat bestraft
+leisten          |оказать                      |leistet            |leistete           |hat geleistet
+zugehören        |принадлежать                 |gehört zu          |gehörte zu         |hat zugehört
+erkennen         |распознать                   |erkennt            |erkannte           |hat erkannt
+fliehen          |убегать                      |flieht             |floh               |ist geflohen
+kaputtgehen      |сломаться                    |geht kaputt        |ging kaputt        |ist kaputtgegangen
+gebrauchen       |использовать                 |gebraucht          |gebrauchte         |hat gebraucht
+einziehen        |инкассировать                |zieht ein          |zog ein            |ist eingezogen
+wiederkommen     |возвратиться                 |kommt wieder       |kam wieder         |ist wiedergekommen
+reinigen         |чистить                      |reinigt            |reinigte           |hat gereinigt
+zerknittern      |смять                        |zerknittert        |zerknitterte       |hat zerknittert
+massieren        |массировать                  |massiert           |massierte          |hat massiert
+verspinnen       |прясть                       |verspinnt          |verspann           |hat versponnen
+trimmen          |подрезать                    |trimmt             |trimmte            |hat getrimmt
+lassen           |оставлять                    |lässt              |ließ               |hat gelassen
+erfahren         |узнавать                     |erfährt            |erfuhr             |hat erfahren
+überqueren       |пересечь                     |überquert          |überquerte         |hat überquert
+hineinlassen     |впустить                     |lässt hinein       |ließ hinein        |hat hineingelassen
+gießen           |налить                       |gießt              |goss               |hat gegossen
+zubereiten       |приготовить                  |bereitet zu        |bereitete zu       |hat zubereitet
+löhnen           |выплачивать заработную плату |löhnt              |löhnte             |hat gelöhnt
+quellen          |расширяться                  |quellt             |quellte            |hat gequellt
+sinken           |тонуть/опускаться            |sinkt              |sank               |ist gesunken
+versäumen        |пропустить                   |versäumt           |versäumte          |hat versäumt
+schleichen       |красться                     |schleicht          |schlich            |hat geschlichen
+melden           |оповещать                    |meldet             |meldete            |hat gemeldet
+verschwinden     |исчезать                     |verschwindet       |verschwand         |ist verschwunden
+verloben         |обручить                     |verlobt            |verlobte           |hat verlobt
+anschließen      |присоединять                 |schließt an        |schloss an         |hat angeschlossen
+wiederherstellen |восстановить                 |stellt wieder her  |stellte wieder her |hat wiederhergestellt
+fortsetzen       |продолжать                   |setzt fort         |setzte fort        |hat fortgesetzt
+stellen          |ставить                      |stellt             |stellte            |hat gestellt
+anfahren         |трогаться с места            |fährt an           |fuhr an            |ist angefahren
+schwanen         |предчувствовать              |schwant            |schwante           |hat geschwant
+überstehen       |выдерживать                  |übersteht          |überstand          |hat überstanden
+schuppen         |сбрасывать                   |schuppt            |schuppte           |hat geschuppt
+jagen            |охотиться                    |jagt               |jagte              |hat gejagt
+verschwenden     |тратить впустую              |verschwendet       |verschwendete      |hat verschwendet
+vorbeikommen     |зайти                        |kommt/kömmt vorbei |kam vorbei         |ist vorbeigekommen
+überfallen       |напасть                      |überfällt          |überfiel           |hat überfallen
+bestehen         |состоять                     |besteht            |bestand            |hat bestanden
+beleidigen       |оскорблять                   |beleidigt          |beleidigte         |hat beleidigt
+wohlfühlen       |хорошо себя чувствовать      |fühlt wohl         |fühlte wohl        |hat wohlgefühlt
+kratzen          |царапать                     |kratzt             |kratzte            |hat gekratzt
+versetzen        |перемещать                   |versetzt           |versetzte          |hat versetzt
+abschließen      |оканчивать                   |schließt ab        |schloss ab         |hat abgeschlossen
+vermeiden        |избегать                     |vermeidet          |vermied            |hat vermieden
+fugen            |сплачивать                   |fugt               |fugte              |hat gefugt
+klicken          |щелкнуть                     |klickt             |klickte            |hat geklickt
+speichern        |хранить                      |speichert          |speicherte         |hat gespeichert
+beamen           |излучать                     |beamt              |beamte             |hat gebeamt
+betreffen        |касаться                     |betrifft           |betraf             |hat betroffen
+zubeißen         |укусить                      |beißt zu           |biss zu            |hat zugebissen
+prüfen           |проверить                    |prüft              |prüfte             |hat geprüft
+wenden           |обращаться                   |wendet             |wandte             |hat gewandt
+verfügen         |располагать                  |verfügt            |verfügte           |hat verfügt
+entwickeln       |развивать                    |entwickelt         |entwickelte        |hat entwickelt
+messen           |измерить                     |misst              |maß                |hat gemessen
+bestimmen        |определять                   |bestimmt           |bestimmte          |hat bestimmt
+verschütten      |разлить                      |verschüttet        |verschüttete       |hat verschüttet
+anhängen         |подвесить                    |hängt an           |hängte an          |hat angehängt
+anhangen         |прикреплять                  |hangt an           |hangte an          |hat angehangt
+bedanken         |благодарить                  |bedankt            |bedankte           |hat bedankt
+vereinbaren      |договориться                 |vereinbart         |vereinbarte        |hat vereinbart
+erfüllen         |удовлетворять                |erfüllt            |erfüllte           |hat erfüllt
+kündigen         |уволиться                    |kündigt            |kündigte           |hat gekündigt
+beraten          |советовать                   |berät              |beriet             |hat beraten
+bearbeiten       |обработать                   |bearbeitet         |bearbeitete        |hat bearbeitet
+fasen            |снимать фаску                |fast               |faste              |hat gefast
+benehmen         |вести себя                   |benimmt            |benahm             |hat benommen
+fassen           |схватить                     |fasst              |fasste             |hat gefasst
+erhöhen          |увеличивать                  |erhöht             |erhöhte            |hat erhöht

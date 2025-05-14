@@ -94,3 +94,72 @@ verursacht|обусловленный
 faul|ленивый
 arbeitslos|безработный
 ehrenamtlich|добровольный
+riskant|рискованный
+wütend|разъяренный
+bereit|готовый
+ledig|холостой
+schuldig|виновный
+folgend|дальнейший
+anstrengend|утомительный
+wertvolle|ценный
+wahnsinnig|ненормальный
+unentschieden|ничейный
+peinlich|неловкий
+schwanger|беременная
+neugierig|любопытный
+möbliert|меблированный
+einsam|одинокий
+peinlich|неловкий
+schlank|стройный
+zuverlässig|надежный
+fleißig|прилежный
+verursacht|обусловленный
+arm|бедный
+blaß|бледный
+beunruhigend|тревожный
+stumm|немой
+durchschnittlich|в среднем
+ausgebildet|обученный
+gruselig|жуткий
+haarlos|лысый
+verdächtig|подозрительный
+zugesagt|обещанный
+gewöhnt|приученный
+vorläufig|предварительно
+enttäuscht|разочарованный
+erfahren|опытный
+begeistert|взволнованный
+überglücklich|очень счастливый
+anscheinend|вероятный
+verlobt|обрученный
+einheimische|местный
+wütend|разгневанный
+ohnmächtig|бессильный
+erledigt|завершенный
+männlich|мужской
+weiblich|женский
+giftige|ядовитый
+heutig|сегодняшний
+die Lage|состояние обстановка
+schlau|ловкий хитрый
+eigenen|собственный
+tapfer|храбрый
+feig|трусливый
+verantwortlich|ответственный
+fett|жирный
+herzlich|задушевный сердечный
+zielbewusst|целеустремленный
+hart|жесткий трудный
+schlecht|плохой
+notwendig|необходимый
+bestimmt|определенный
+selbstbewusst|самоуверенный
+eigensinnig|своенравный упрямый
+verschieden|различный
+marode|изнуренный
+verwitwet|овдовевший
+wirtschaftlich|экономический
+spröde|ломкий
+schädlich|вредный
+regelmäßig|регулярно
+geistig|духовный

@@ -9,9 +9,9 @@ class AskSplashView(MDDialog):
                          text=message,
                          auto_dismiss='False',
                          buttons=[
-                             MDFlatButton(text="Yes",
+                             MDFlatButton(text="Ja",
                                           on_release=self.on_pressed_yes),
-                             MDFlatButton(text="No",
+                             MDFlatButton(text="Nein",
                                           on_release=self.on_pressed_no)
                             ]
                          )

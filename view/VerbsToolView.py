@@ -12,23 +12,19 @@ class VerbsToolView(Screen, CommonToolView):
         self.controller.set_view(self)
         self.default_color = default_color
 
-    # to do: delete
-    def on_press_check(self):
-        self.controller.check_answer("self.ids.answer_to_check.text")
-
-    def on_show_translation(self):
-        translation = self.controller.get_translation()
-        if translation:
-            self.ids.translation.text = translation
+    def on_show_perfect_verb(self):
+        perfect = self.controller.get_perfect_verb()
+        if perfect:
+            self.ids.perfect_verb.text = perfect
         else:
-            self.show_warning("Nothing to learn. No data loaded.")
+            self.show_warning("Nichts zu lernen. Keine Daten geladen.")
 
     def on_show_auxiliary_verb(self):
         auxiliary_verb = self.controller.get_auxiliary_verb()
         if auxiliary_verb:
             self.ids.auxiliary_verb.text = auxiliary_verb
         else:
-            self.show_warning("Nothing to learn. No data loaded.")
+            self.show_warning("Nichts zu lernen. Keine Daten geladen.")
 
     def on_yes(self):
         self.controller.check_answer("yes")
@@ -39,3 +35,4 @@ class VerbsToolView(Screen, CommonToolView):
     def set_translation(self, translation):
         self.ids.translation.text = translation
         self.ids.auxiliary_verb.text = ""
+        self.ids.perfect_verb.text = ""

@@ -16,20 +16,22 @@ class WordsModel(CommonModel):
             # Handle data here
             for line in lines:
                 data = line.split("|")
-                if len(data) == 2:
-                    data_entry = WordsEntry(data[0].strip(), data[1].strip())
-                    output_data_set.update({counter: data_entry})
-                    counter += 1
-                if len(data) == 3:
-                    data_entry = WordsEntry(data[1].strip(), data[2].strip())
-                    output_data_set.update({counter: data_entry})
-                    counter += 1
-                word = data_entry.get_word()
-                if word in data_buff:
-                    print(word)
-                else:
-                    data_buff.append(word)
-
+                if data:
+                    data_entry = None
+                    if len(data) == 2:
+                        data_entry = WordsEntry(data[0].strip(), data[1].strip())
+                        output_data_set.update({counter: data_entry})
+                        counter += 1
+                    if len(data) == 3:
+                        data_entry = WordsEntry(data[1].strip(), data[2].strip())
+                        output_data_set.update({counter: data_entry})
+                        counter += 1
+                    if data_entry:
+                        word = data_entry.get_word()
+                        if word in data_buff:
+                            print(word)
+                        else:
+                            data_buff.append(word)
         return output_data_set
 
     def set_data_set(self, data_set, path):

@@ -9,8 +9,8 @@
         spacing: root.height * 0.01
 
         MDTopAppBar:
-            title: "Die Worten lernen"
             left_action_items: [["arrow-left", lambda x: app.change_screen("ChooseLessonView"), "Zurück zur Lektionsauswahl"]]
+            id: main_title
 
         MDBoxLayout:
             orientation: 'vertical'
@@ -40,30 +40,25 @@
                     size_hint: 1.5, 1
                     halign: 'center'
                     padding_y: [self.height / 2.0 - (self.line_height / 2.0) * len(self._lines), 0]
+
+                MDRaisedButton:
+                    text: 'Übersetzung anzeigen'
+                    size_hint: 0.5, 1
+                    on_press: root.on_show_translation()
 #=======================================================================================================================
             Statistics:
                 id:stat
 #=======================================================================================================================
             MDBoxLayout:
-                orientation: 'horizontal'
+                orientation: 'vertical'
                 spacing: root.width * 0.01
-                size_hint: 1, 0.75
+                size_hint: 1, 0.5
 
                 MDLabel:
                     bold: True
-                    halign: 'left'
-                    text: 'Ihre Antwort:'
-                    font_size: 40
-                    size_hint: 0.3, 1
-
-                MDTextField:
-                    mode: 'rectangle'
-                    hint_text: ''
-                    id: answer_to_check
-                    font_size: 40
-                    size_hint: 1.5, 1
-                    halign: 'center'
-                    padding_y: [self.height / 2.0 - (self.line_height / 2.0) * len(self._lines), 0]
+                    halign: "center"
+                    text: 'Haben Sie richtig geraten?'
+                    size: self.texture_size
 #=======================================================================================================================
             MDBoxLayout:
                 orientation: 'horizontal'
@@ -71,10 +66,16 @@
                 size_hint: 1, 0.5
 
                 MDRaisedButton:
-                    id: check_answer
-                    text: 'Überprüfe ihre Antwort'
+                    id: log_no
+                    text: 'Nein'
                     size_hint: 0.25, 1
-                    on_press: root.on_press_check()
+                    on_press: root.on_no()
+
+                MDRaisedButton:
+                    id: log_yes
+                    text: 'Ja'
+                    size_hint: 0.25, 1
+                    on_press: root.on_yes()
 #=======================================================================================================================
             MDBoxLayout:
                 orientation: 'vertical'

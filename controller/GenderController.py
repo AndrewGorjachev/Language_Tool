@@ -1,11 +1,9 @@
 import os.path
-import random
 from datetime import datetime
 
 from kivy.clock import Clock
 
 from controller.CommonController import CommonController
-from model.GenderData import GenderEntry
 from model.GenderModel import GenderModel
 
 
@@ -57,10 +55,10 @@ class GenderController(CommonController):
                 if len(self.to_repeat) != 0:
                     self.view.show_ask(ask_sentence)
                 else:
-                    self.view.show_congratulation("You finished the lesson without mistakes!")
+                    self.view.show_congratulation("Du hast die Übung fehlerfrei absolviert!")
             self._get_random_word()
         else:
-            self.view.show_warning("Nothing to learn. No data loaded.")
+            self.view.show_warning("Nichts zu lernen. Keine Daten geladen.")
 
     def set_data_path(self, data_path):
         self.view.set_data_path(data_path)
@@ -69,7 +67,7 @@ class GenderController(CommonController):
             self._get_random_word()
             self._update_statistics()
         else:
-            self.view.show_warning("Nothing to learn.\nNot appropriate data format.")
+            self.view.show_warning("Nichts zu lernen. \nKein geeignetes Datenformat.")
 
     def new_file(self, path):
         now = datetime.now().strftime("%y_%m_%d_%H_%M_%S")
@@ -79,7 +77,7 @@ class GenderController(CommonController):
                 open(new_path, "w")
             return new_path
         except:
-            self.view.show_warning("Cannot create a new file.")
+            self.view.show_warning("Es kann keine neue Datei erstellt werden.")
             return None
 
     def save_data(self, path):
@@ -87,23 +85,22 @@ class GenderController(CommonController):
             if self.data:
                 self.model.set_data_set(self.data, path)
             else:
-                self.view.show_warning("No data loaded.")
+                self.view.show_warning("Keine Daten geladen.")
         except:
-            self.view.show_warning("Access file error.")
+            self.view.show_warning("Fehler beim Zugriff auf die Datei.")
 
     def save_mistakes(self, path):
         try:
             if self.to_repeat:
                 self.model.set_data_set(self.to_repeat, path)
             else:
-                self.view.show_warning("No data loaded.")
+                self.view.show_warning("Keine Daten geladen.")
         except:
-            self.view.show_warning("Access file error.")
+            self.view.show_warning("Fehler beim Zugriff auf die Datei.")
 
     def get_translation(self):
         if self.data:
             word_id = self.random_list[self.current_step]
             return self.data[word_id].get_translation()
         else:
-            self.view.show_warning("Nothing to learn. No data loaded.")
-            return None
+            return ""

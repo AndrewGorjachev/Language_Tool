@@ -34,4 +34,4 @@ class OpenDialogView:
         if len(path) != 0:
             self.call_back(path)
         else:
-            OpenSplashView("Warning", "Source data is not chosen.")
+            OpenSplashView("Warnung", "Die Quelldaten werden nicht ausgewählt.")

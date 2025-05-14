@@ -15,7 +15,6 @@ wieder|снова/опять
 darum|поэтому
 überhaupt|совсем
 sogar|даже
-sofort|немедленно
 besonders|особенно
 mindestens|по меньшей мере
 gratis|бесплатно
@@ -44,3 +43,20 @@ wohl|наверное
 weiter|дальше
 demnächst|в ближайшее время
 umsonst|напрасно
+sodass|чтобы
+seitdem|с тех пор
+mittlerweile|между тем
+hierher|здесь
+rückwärts|назад
+vorwärts|вперед
+ohnmächtig|в обмороке
+nochmals|снова
+gleichfalls|точно так же
+diesmal|на этот раз
+außerhalb|за пределами
+zugleich|в то же время
+einschließlich|включительно
+daneben|наряду с этим рядом
+hoffentlich|с надеждой
+fast|почти
+beinahe|почти

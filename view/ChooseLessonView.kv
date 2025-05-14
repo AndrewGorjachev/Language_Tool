@@ -44,8 +44,14 @@
         MDRaisedButton:
             pos_hint: {"center_x": 0.5, "center_y": 0.5, "top":1}
             size_hint: 0.5, 0.1
-            text: 'Die Worten lernen'
-            on_press: root.manager.current = "WordsToolView"
+            text: 'Die Worten lernen (Fremdsprache -> Deutsch)'
+            on_press: root.manager.current = "WordsToolViewFremd"
+#=======================================================================================================================
+        MDRaisedButton:
+            pos_hint: {"center_x": 0.5, "center_y": 0.5, "top":1}
+            size_hint: 0.5, 0.1
+            text: 'Die Worten lernen (Deutsch -> Fremdsprache)'
+            on_press: root.manager.current = "WordsToolViewDeutsch"
 #=======================================================================================================================
         MDLabel:
             valign: "top"

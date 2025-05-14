@@ -34,7 +34,7 @@ class CommonController:
             self._get_random_word()
             self._update_statistics()
         else:
-            self.view.show_warning("Nothing to learn.\nNot appropriate data format.")
+            self.view.show_warning("Nichts zu lernen.\nKein geeignetes Datenformat.")
 
     def set_view(self, view):
         self.view = view
@@ -57,8 +57,21 @@ class CommonController:
 
     def generate_ask_phrase(self):
         rate = format(float((self.right_answers / self.total_answers) * 100), ".2f")
-        return "Right answers " + str(self.right_answers) + "\n" + \
-               "Wrong answers " + str(self.wrong_answers) + "\n" + \
-               "Right answers rate " + str(rate) + "% \n" + \
-               "Would you like to repeat your mistakes?\n" + \
-               "Press \"No\" to repeat all."
+        return "Richtige Antworten       " + str(self.right_answers) + "\n" + \
+               "Falsche Antworten        " + str(self.wrong_answers) + "\n" + \
+               "Die richtige Antwortrate " + str(rate) + "% \n" + \
+               "Möchten Sie Ihre Fehler wiederholen?\n" + \
+               "Drücken Sie \"Nein\", um alles zu wiederholen."
+
+    def check_answer(self, answer):
+        if self.data:
+            if answer == "yes":
+                self.right_answers += 1
+            else:
+                self.wrong_answers += 1
+            self.current_step += 1
+            self.total_answers += 1
+            self._update_statistics()
+            self._get_random_word()
+        else:
+            self.view.show_warning("Nichts zu lernen. Keine Daten geladen.")

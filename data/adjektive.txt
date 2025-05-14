@@ -17,12 +17,11 @@ betroffen|затронутый
 wahr|истинный
 gesammelt|собранный
 wach|бодрствующий
-enttäuscht|расстроенный
 unerwartet|неожиданный
 typisch|типичный
 tief|глубокий
 entspannt|расслабленный
-wütend|злой/яростный/свирепый
+wütend|злой/яростный/свирепый/разгневанный
 seltenen|редкий
 schmal|узкий
 breit|широкий
@@ -49,7 +48,6 @@ neu|новый
 würdig|достойный
 getrennt|разделенный
 geduldig|терпеливый
-einheimische|местные
 blaß|бледный
 wild|дикий
 hoch|высокий
@@ -60,20 +58,15 @@ begabt|одаренный способный
 erfolgreiche|успешный
 rechtzeitig|пунктуальный
 ärgerlich|раздражающий
-erfolgreiche|успешный
 satt|сытый
 bereit|готовый
 selbstständig|самостоятельный
 prima|первоклассный
 ausreichend|достаточный
-enttäuscht|разочарованный
-schlimm|ужасный
-ledig|одинокий
 zufrieden|довольный
 dran|твоя очередь
 eigentlich|на самом деле
 erstklassig|первоклассный
-wertvoll|ценный
 sauber|чистый
 eigene|собственный
 ständig|постоянный
@@ -82,11 +75,9 @@ fällig|должный
 erfolgreich|успешный
 abhängig|зависимый
 roh|сырой
-fällig|должный
 mutig|смелый
 bewaffnet|вооруженный
 unglaublich|невероятный
-verschieden|различный
 obdachlos|бездомный
 überzeugt|убежденный
 empfindlich|чувствительный
@@ -94,3 +85,66 @@ verursacht|обусловленный
 faul|ленивый
 arbeitslos|безработный
 ehrenamtlich|добровольный
+riskant|рискованный
+ledig|холостой одинокий
+schuldig|виновный
+folgend|дальнейший
+anstrengend|утомительный
+wahnsinnig|ненормальный
+unentschieden|ничейный
+peinlich|неловкий
+schwanger|беременная
+neugierig|любопытный
+möbliert|меблированный
+einsam|одинокий
+schlank|стройный
+zuverlässig|надежный
+fleißig|прилежный
+verursacht|обусловленный
+arm|бедный
+beunruhigend|тревожный
+stumm|немой
+durchschnittlich|в среднем
+ausgebildet|обученный
+gruselig|жуткий
+haarlos|лысый
+verdächtig|подозрительный
+zugesagt|обещанный
+gewöhnt|приученный
+vorläufig|предварительно
+enttäuscht|разочарованный расстроенный
+erfahren|опытный
+überglücklich|очень счастливый
+anscheinend|вероятный
+verlobt|обрученный
+einheimische|местный
+ohnmächtig|бессильный
+erledigt|завершенный
+männlich|мужской
+weiblich|женский
+giftige|ядовитый
+heutig|сегодняшний
+die Lage|состояние обстановка
+schlau|ловкий хитрый
+eigenen|собственный
+tapfer|храбрый
+feig|трусливый
+verantwortlich|ответственный
+fett|жирный
+herzlich|задушевный сердечный
+zielbewusst|целеустремленный
+hart|жесткий трудный
+schlecht|плохой
+notwendig|необходимый
+bestimmt|определенный
+selbstbewusst|самоуверенный
+eigensinnig|своенравный упрямый
+verschieden|различный
+marode|изнуренный
+verwitwet|овдовевший
+wirtschaftlich|экономический
+spröde|ломкий
+schädlich|вредный
+regelmäßig|регулярно
+geistig|духовный
+hoteleigen|принадлежащий отелю

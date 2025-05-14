@@ -34,7 +34,7 @@ class CommonController:
             self._get_random_word()
             self._update_statistics()
         else:
-            self.view.show_warning("Nothing to learn.\nNot appropriate data format.")
+            self.view.show_warning("Nichts zu lernen.\nKein geeignetes Datenformat.")
 
     def set_view(self, view):
         self.view = view
@@ -62,3 +62,13 @@ class CommonController:
                "Right answers rate " + str(rate) + "% \n" + \
                "Would you like to repeat your mistakes?\n" + \
                "Press \"No\" to repeat all."
+
+    def check_answer(self, answer):
+        if answer == "yes":
+            self.right_answers += 1
+        else:
+            self.wrong_answers += 1
+        self.current_step += 1
+        self.total_answers += 1
+        self._update_statistics()
+        self._get_random_word()

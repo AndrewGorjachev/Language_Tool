@@ -1,11 +1,9 @@
 import os.path
-import random
 from datetime import datetime
 
 from kivy.clock import Clock
 
 from controller.CommonController import CommonController
-from model.GenderData import GenderEntry
 from model.GenderModel import GenderModel
 
 

@@ -18,12 +18,12 @@ das|Schreibzeug|письменные принадлежности
 das|Werkzeug|инструмент
 das|Spielzeug|игрушка
 der|Radiergummi|ластик
-das|Stift|ручка
+der|Stift|ручка
 der|Brandmelder|пожарная тревога
 der|Vorhang|занавес
 das|Handy|мобильный телефон
 die|Kamera|камера
-der|Stuck|кусок/деталь
+das|Stück|кусок/деталь
 die|Schutzbrille|защитные очки
 der|Gehörschutz|защита ушей
 der|Schutzhelm|каска
@@ -89,7 +89,7 @@ die|Zeitung|газета
 die|Küche|кухня
 das|Adverb|наречие
 das|Getränk|напиток
-der|Übergabe|передача
+die|Übergabe|передача
 das|Gericht|суд
 die|Insel|остров
 das|Zelt|палатка
@@ -166,13 +166,11 @@ der|Koffer|чемодан
 die|Heckscheibe|заднее окно
 die|Übersetzung|перевод
 die|Mehrwertsteuer|НДС
-die|Anzeige|реклама
+die|Anzeige|реклама объявление
 der|Einkaufszettel|cписок покупок
 die|Wäsche|прачечная
 der|Film|фильм
-das|Schmerzen|боль
 die|Handlung|сюжет
-das|Beeilen|спешка
 die|Haut|кожа
 das|Schloss|замок
 die|Kugel|шар/пуля
@@ -275,7 +273,7 @@ die|Luft|воздух
 der|Ort|место
 das|Ferkel|поросенок
 die|Kuh|корова
-die|Ziege|козел
+die|Ziege|коза
 der|Raum|комната
 die|Farbe|цвет
 das|Loch|дыра
@@ -289,7 +287,6 @@ das|Bad|ванна
 das|Shampoo|шампунь
 die|Zigarette|сигарета
 der|Quatsch|хлам
-das|Sorgen|тревожный
 die|Klimaanlage|кондиционер
 die|Bewertung|отзыв
 die|Gegend|область
@@ -350,7 +347,7 @@ die|Nachricht|cообщение
 die|Null|ноль
 die|Fluggesellschaft|воздушная линия
 das|Smartphone|смартфон
-die|Tauben|голубь
+die|Taube|голубь/голубица
 die|Miete|аренда
 das|Ohr|ухо
 die|Durchwahlnummer|добавочный номер
@@ -359,7 +356,7 @@ der|Frosch|лягушка
 der|Taxistand|стоянка такси
 die|Bushaltestelle|автобусная остановка
 der|Artikel|артикль
-der|Schlittschuh|коньки
+der|Schlittschuh|конькиг
 das|Date|дата
 die|U-Bahn|метро
 der|Studentenausweis|студенческий билет
@@ -369,7 +366,6 @@ der|Anrufbeantworter|автоответчик
 das|Theaterstück|спектакль
 der|Anruf|вызов
 die|Kartoffel|картофель
-der|Verhalt|поведение
 die|Sicherheitsfrage|секретный вопрос
 das|Notieren|примечание
 die|Verbindung|связь
@@ -406,7 +402,7 @@ die|Schublade|выдвижной ящик
 der|Moment|момент
 die|Bezirkshauptmannschaft|районная администрация
 die|Woche|неделя
-das|Ungeheuer|монстр
+das|Ungeheuer|монстр страшилище
 der|Junge|юноша
 der|Teppich|ковер
 der|Videoanruf|видеозвонок
@@ -468,7 +464,6 @@ der|Balkon|балкон
 das|Besichtigen|экскурсия
 die|Seite|страница
 das|Tor|ворота
-der|Bericht|отчет
 der|Ehering|обручальное кольцо
 der|Rauch|дым
 der|Stall|конюшня
@@ -492,7 +487,6 @@ das|Lebensmittel|еда
 das|Jahrhundert|век
 der|Tiergarten|зоопарк
 der|Unterschied|разница
-der|Verein|ассоциация
 das|Rezept|рецепт
 die|Grillparty|вечеринка с барбекю
 das|Spätzle|шпецле
@@ -507,7 +501,7 @@ die|Dusche|душ
 das|Heft|тетрадь
 das|Blatt|бумага
 die|Übung|упражнение
-die|Mathematikübungen|упражнение математическое/задача
+die|Mathematikübung|упражнение математическое/задача
 die|Grammatik|грамматика
 das|Leder|кожа
 die|Bewegung|движение
@@ -592,7 +586,7 @@ die|Milch|молоко
 die|Sonnencreme|крем для загара
 die|Schokolade|шоколад
 das|Meer|море
-das|Lieb|любовь
+die|Liebe|любовь
 die|Idee|идея
 die|Karotte|морковь
 das|Weihnachten|Рождество
@@ -608,7 +602,7 @@ der|Nebel|туман
 der|Adler|орёл
 der|Leuchtturm|маяк
 der|Müll|мусор
-die|Sendung|передача
+die|Sendung|передача отправление
 der|Mord|убийство/убийца
 der|Hubschrauber|вертолет
 der|Schnee|снег
@@ -621,7 +615,7 @@ das|Gerät|устройство
 die|Arbeit|работа
 der|Kreisverkehr|кольцевая развязка
 das|Gift|яд
-der|Obdachloser|бездомный человек
+der|Obdachlose|бездомный человек
 der|Kühlschrank|холодильник
 die|Saison|сезон
 der|Stand|стенд
@@ -637,7 +631,6 @@ die|Empfehlung|рекомендация
 das|Tuch|ткань
 der|Mittag|полдень
 die|Sammlung|коллекция
-die|Leiche|труп
 die|Kapitalertragsteuer|налог на прирост капитала
 die|Pflege|уход забота
 der|Drogenabhängige|наркоман
@@ -688,7 +681,7 @@ das|Präteritum|прошедшее время
 das|Perfekt|прошедшее время(превосходное)
 das|Basilikum|базилик
 die|Torte|торт
-das|Pflaumen|слива
+die|Pflaume|слива
 der|Takt|такт/ритм
 der|Schweinebraten|жареная свинина
 das|Menü|меню
@@ -700,7 +693,7 @@ der|Käse|сыр
 der|Hügel|холм
 das|Lineal|линейка
 der|Zahn|зуб
-der|Stoßzähnen|бивень
+der|Stoßzahn|бивень
 die|Prüfung|экзамен
 das|Viereck|четырехугольник
 das|Kaffeehaus|кофейня
@@ -722,10 +715,10 @@ die|Kurve|кривая
 der|Gang|проход
 das|Modalverb|модальный глагол
 der|Wunsch|желание
-die|Veranstaltung|событие
+die|Veranstaltung|событие мероприятие
 der|Bock|козел/олень-самец/похотливый кобель
 die|Geburt|рождение
-der|Schluss|заключение
+der|Schluss|заключение вывод
 der|Berater|консультант
 das|Vorsatz|цель умысел
 der|Rutsch|сдвиг оползень
@@ -742,7 +735,6 @@ das|Lob|похвала
 die|Bürste|кисть
 die|Grenze|граница
 der|Rock|юбка
-die|Mauer|стена
 der|Nachmittag|после обеда
 die|Leine|поводок
 die|Möhre|морковь
@@ -756,7 +748,6 @@ der|Turm|башня
 das|Gespräch|разговор
 das|Lokal|закусочная
 das|Altersheim|дом престарелых
-der|Bürgermeister|мэр
 das|Feuerwerk|фейерверк
 das|Gesetz|закон
 die|Birne|груша
@@ -775,15 +766,15 @@ das|Laptop|ноутбук
 das|Gemälde|картина
 der|Blitz|вспышка
 das|Rennrad|гоночный велосипед
-der|Erklärung|объяснение
+die|Erklärung|объяснение
 die|Behauptung|утверждение
 die|Eingabe|подача
-die|Bewerbung|заявление
-die|Anmeldung|заявление
+die|Bewerbung|заявление просьба
+die|Anmeldung|заявление регистрация
 die|Erhebung|заявление
-der|Antrag|предложение
+der|Antrag|предложение заявка
 das|Gesuch|прошение
-der|Deklaration|декларация
+die|Deklaration|декларация
 der|Kuchen|торт
 der|Bezirk|округ
 die|Minute|минута
@@ -816,7 +807,7 @@ das|Abendessen|ужин
 das|Wochenende|выходные
 der|Ventilator|вентилятор
 das|Gestern|вчерашний день
-das|Lenkrad|руль
+das|Lenkrad|руль рулевое колесо
 der|Autositz|автокресло
 der|Hut|шляпа
 der|Schuh|обувь
@@ -881,10 +872,8 @@ die|Fernbedienung|пульт дистанционного управления
 das|Kapitel|глава
 der|Zettel|записка
 die|Mehrheit|большинство
-das|Gesetz|закон
 das|Ende|конец
 die|Wettervorhersage|прогноз погоды
-die|Regierung|правительство
 die|Region|регион
 die|Gesellschaft|общество
 die|Reportage|репортаж
@@ -898,10 +887,435 @@ die|Abgeordnete|депутат
 das|Reichstagsgebäude|здание Рейхстага
 die|Stimme|голос
 das|Laufband|беговая дорожка
-die|Überschwemmung|наводнение
-die|Freiwillige|доброволец
+der|Freiwillige|доброволец
 die|Überschwemmung|наводнение
 der|Arbeitsplatz|рабочее место
 die|Jugendliche|подросток
 der|Bürgermeister|мэр
 das|Projekt|проект
+das|Dorf|деревня
+die|Obdachlose|бездомная
+der|Mittelfeldspieler|полузащитник
+das|Spiel|игра
+das|Trikot|трикотаж
+der|Verteidiger|защитник
+der|Schiedsrichter|арбитр
+der|Vertrag|договор
+die|Arbeitserlaubnis|разрешение на работу
+das|Ding|вещь
+der|Besitzer|владелец
+das|Putzmittel|чистящее средство
+der|Geschirrspüler|посудомоечная машина
+der|Makler|брокер
+der|Verein|клуб/ассоциация
+die|Teilzeit|неполный рабочий день
+die|Staatsangehörigkeit|гражданство
+der|Familienstand|семейное положение
+die|Ausländerbehörde|управление по делам иностранцев
+die|Arbeitsstelle|место работы
+die|Halbzeit|тайм
+der|Übersetzer|переводчик
+der|Meister|мастер чемпион
+das|Lehrerpult|учительский стол
+das|Pult|стол
+der|Streich|шалость
+die|Kunstausstellung|художественная выставка
+der|Flugbegleiter|бортпроводник
+das|Plaudern|болтовня
+die|Schwangere|беременная
+die|Einzimmerwohnung|однокомнатная квартира
+die|Einkaufstüte|пакет для покупок
+die|Hausmeisterin|die Hausmeisterin
+das|Service|сервис
+der|Fingernagel|ноготь
+der|Aufenthalt|пребывание
+das|Anmeldeformular|регистрационная форма
+die|Einzelheit|деталь
+das|Versehen|недосмотр
+der|Notfall|экстренный случай
+das|Kloster|монастырь
+der|Bischof|епископ
+das|Heimweh|тоска по дому
+das|Schwert|меч
+die|Erinnerung|память/воспоминания
+der|Ritter|рыцарь
+das|Klassentreffen|встреча одноклассников
+der|Wal|кит
+der|Treffpunkt|место встречи
+die|Gelegenheit|возможность
+die|Sommersprossen|веснушка
+die|Glatze|лысина
+der|Schnurrbart|усы
+das|Äußere|внешний облик/внешность
+der|Rechtsanwalt|адвокат
+der|Dolmetscher|устный переводчик
+das|Lehrbuch|учебник
+die|Stufe|ступень
+der|Freitag|пятница
+der|Alltag|будни
+die|Abschiedsparty|прощальная вечеринка
+der|Plattenladen|магазин грампластинок
+die|Zutat|ингредиент
+das|Lexikon|лексикон
+die|Grafik|графика
+die|Leiche|труп
+das|Schaf|овца
+die|Qualität|качество
+die|Arbeitslosigkeit|безработица
+die|Wirtschaft|экономика
+der|Hörsaal|лекционный зал
+die|Folie|фольга
+der|Vortrag|лекция доклад
+die|Lüge|ложь
+das|Krokodil|крокодилы
+der|Tierpark|зоопарк
+der|Schnabel|клюв
+das|Nest|гнездо
+die|Braut|невеста
+die|Richtung|направление
+die|Stadtrundfahrt|пешеходная экскурсия по городу
+das|Fort|форт
+das|Produkt|продукт
+die|Messe|ярмарка
+der|Azubi|ученик
+der|Fachmann|эксперт
+die|Uni|университет
+die|Betriebswirtschaftslehre|бизнес-администрирование
+die|Zeremonie|церемония
+das|Moped|мопед
+die|Mauer|стена
+der|Krieg|война
+die|Betreuung|уход
+der|Bauernhof|ферма
+die|Stadtplanung|городское планирование
+der|Schulunterricht|школьные уроки
+der|Platzanweiser|билетер
+das|Zeug|вещи
+das|Fahrzeug|автомашина
+der|Waschbär|енот
+die|Täterin|виновница/преступница
+die|Brauerei|пивоварня
+das|Herz|сердце
+der|Bericht|отчет
+die|Öffentlichkeit|общественность
+der|Schatten|тень
+der|Haarschnitt|стрижка
+der|Mund|рот
+die|Sprechstunde|приемные часы
+die|Stirn|лоб
+das|Raubtier|хищник
+das|Nilpferd|бегемот
+die|Vergangenheit|прошлое
+der|Hase|заяц
+die|Krankenkasse|больничная касса
+die|Flöte|флейта
+die|Überstunde|сверхурочная работа
+der|Gehalt|зарплата
+der|Donner|гром
+die|Richterin|судья
+das|Grundstück|земельный участок
+der|Pinguin|пингвин
+der|Gastarbeiter|гастарбайтер
+der|Schneider|портной
+das|Risiko|риск
+das|Krafttraining|силовая тренировка
+der|Abschnitt|раздел
+der|Krimi|детектив
+die|Klasse|класс
+die|Box|коробка
+der|Diamant|алмаз
+das|Ereignis|событие
+das|Hallenbad|крытый бассейн
+das|Mitglied|член
+das|Schmuckgeschäft|ювелирный магазин
+der|Zusammenhang|связь
+der|Intensivkurs|интенсивное обучение
+die|Absicht|намерение
+das|Ruder|руль
+die|Villa|вилла
+der|Schlosser|слесарь
+der|Schrebergarten|небольшой садовый участок
+der|Nachteil|недостаток
+die|Menge|количество
+der|Knall|взрыв
+das|Wissen|знание
+das|Gefühl|чувство
+der|Ernst|серьезность
+das|Bundesland|федеральная земля
+die|Bundesregierung|федеральное правительство
+die|Bundesrepublik|федеративная республика
+der|Daumen|большой палец
+die|Pfütze|лужа
+die|Wellenlänge|длина волны
+der|Standort|местоположение
+der|Matsch|слякоть
+das|Internet|интернет
+der|Nutzer|пользователь
+der|Sauerstoff|кислород
+die|Astronomie|астрономия
+der|Einbrecher|взломщик
+das|Teleskop|телескоп
+die|Scherbe|осколок
+das|Kraut|трава
+der|Kräutertee|травяной чай
+die|Strumpfhose|колготки
+die|Suche|поиск
+das|Kennwort|пароль
+das|Netzwerk|сеть
+der|Ordner|папка
+die|Information|информация
+das|Planetarium|планетарий
+der|Zuhörer|слушатель
+das|Massenmedium|средства массовой информации
+der|Lautsprecher|динамик
+die|Ökologie|экология
+die|Durchsage|сообщение
+das|Band|лента
+die|Kiefer|сосна
+der|Leiter|руководитель
+die|See|море
+das|Steuer|руль штурвал
+die|Steuer|налог
+der|Wohnort|место жительства
+die|Turnhalle|спортзал
+die|Wissenschaft|наука
+der|Beamter|чиновник
+der|Wissenschaftler|учёный
+die|Mensa|студенческая столовая
+die|Anrede|обращение
+die|Umfrage|опрос
+das|Rätsel|загадка
+das|Gebiet|область
+die|Entdeckung|открытие
+die|Theorie|теория
+das|Recht|право
+das|Metall|металл
+die|Geographie|география
+die|Forschung|исследование
+der|Eintrag|запись
+die|Person|человек
+der|Gegner|противник
+die|Erzählung|повествование
+der|Kiefer|челюсть
+der|Tintenfisch|каракатица осьминог
+der|Liebeszettel|любовная записка
+der|Bräutigam|жених
+die|Muschel|ракушка
+der|Messer|измеритель
+der|Quell|источник
+das|Bakterium|бактерия
+das|Interview|интервью
+die|Mitteilung|сообщение
+das|Radio|радио
+die|Bildung|образование
+die|Unterhaltung|развлечение
+die|Auskunft|справка
+die|Taste|кнопка
+das|Wunder|чудо
+die|Festplatte|жесткий диск
+die|Seele|душа
+der|Anschluss|подключение
+der|Sieg|победа
+der|Motor|мотор
+das|Zubehör|аксессуар
+der|Glaube|вера
+die|Religion|религия
+der|Gläubiger|верующий
+der|Rasierer|бритва
+die|Flur|коридор прихожая
+der|Erfolg|успех
+der|Entwurf|проект черновик
+die|Eröffnung|открытие
+der|Knopf|пуговица
+der|Esel|осел
+das|Faultier|ленивец
+die|Diät|диета
+die|Garnele|креветка
+der|Zuschauer|зритель
+die|Erbsensuppe|гороховый суп
+der|Kürbis|тыква
+das|Unkraut|сорняк
+die|Unterstützung|поддержка
+die|Kohlensäure|углекислота
+die|Umgebung|окрестности
+die|Meeresfrucht|морепродукт
+der|Regenbogen|радуга
+der|Zweck|цель
+der|Arbeitnehmer|трудящийся
+der|Stiefvater|отчим
+die|Untersuchung|расследование
+das|Gewicht|вес
+die|Unterkunft|жилье
+das|Können|возможности
+die|Kenntnis|знание
+der|Tod|смерть
+die|Rede|выступление речь
+das|Stellenangebot|вакансии
+die|Freude|радость
+das|Haushaltsgerät|бытовой прибор
+das|Verhalten|поведение
+die|Erziehung|воспитание
+die|Lebensgefährtin|спутница жизни
+das|Gegenteil|противоположность
+die|Computerkenntnisse|компьютерная грамотность
+das|Mittel|средство
+der|Eindruck|впечатление
+die|Verabredung|свидание
+der|Stress|стресс
+die|Krankheit|болезнь
+die|Heilung|заживление
+der|Schmetterling|бабочка
+das|Medikament|лекарство
+die|Mühe|усилие
+das|Eichhörnchen|белка
+die|Dienstreise|командировка
+das|Unternehmen|предприятие
+der|Betrieb|предприятии
+die|Vorlesung|лекция
+die|Zusammenarbeit|сотрудничество
+das|Schicksal|судьба
+die|Freiheit|свобода
+der|Empfänger|адресат
+die|Gans|гусь
+das|Gewissen|совесть
+der|Auszubildende|стажер
+der|Kommilitone|сокурсник
+der|Benimm|поведение
+die|Weiterbildung|повышение квалификации
+das|Taschengeld|карманные деньги
+das|Best|награда
+die|Ausfahrt|выезд
+die|Autobahnausfahrt|съезд с автострады
+das|Benzin|бензин
+die|Fahrbahn|проезжая часть
+der|Fußgänger|пешеход
+das|Gas|газ
+der|Gehsteig|тротуар
+die|Geschwindigkeitsbeschränkung|ограничение скорости
+die|Hupe|клаксон
+der|Radfahrer|велосипедист
+der|Radweg|велосипедная дорожка
+der|Stau|затор
+die|Umleitung|изменение маршрута
+das|Verkehrsschild|дорожный указатель
+der|Zebrastreifen|зебра
+die|Abreise|отъезд
+das|Aufgabegepäck|зарегистрированный багаж
+der|Bergsteiger|альпинист
+die|Einreise|въезд
+der|Empfang|прием
+der|Fahrgast|пассажир
+das|Fernweh|страсть к путешествиям
+der|Fluggast|пассажир
+das|Gebirge|горы
+der|Hafen|порт
+das|Handgepäck|ручная кладь
+die|Landung|посадка
+der|Passagier|пассажир
+der|Reiseveranstalter|туроператор
+der|Rollkoffer|чемодан на колесиках
+die|Rückkehr|возвращение
+das|Sondergepäck|специальный багаж
+der|Steward|стюард
+die|Stewardess|стюардесса
+das|Ufer|берег
+die|Weltreise|кругосветное путешествие
+das|Wohnmobil|кемпер
+der|Wohnwagen|трейлер
+das|Buffet|буфет
+das|Frühstücksbuffet|завтрак "шведский стол"
+der|Meeresblick|вид на море
+die|Hauptsaison|сезон
+die|Nebensaison|межсезонье
+der|Swimmingpool|плавательный бассейн
+der|Zimmerservice|обслуживание в номере
+der|Ziegenbock|козел
+die|Sorge|забота
+die|Eile|спешка
+der|Schmerz|боль
+der|Strom|электричество
+der|Mörder|убийца
+die|Kälte|холод
+die|Wärme|теплота
+die|Hitze|жара
+die|Dunkelheit|темнота
+die|Helligkeit|яркость
+die|Schnelligkeit|быстрота
+die|Langsamkeit|медлительность
+die|Nähe|близость
+die|Ferne|отдаление
+die|Distanz|расстояние
+die|Tiefe|глубина
+die|Größe|размер
+die|Länge|длина
+die|Breite|ширина
+die|Abmessung|габарит
+die|Höhe|высота
+der|Druck|давление
+dec|Schraubendreher|отвертка
+die|Frequenz|частота
+das|Ruder|руль
+das|Fenster|окно
+der|Ausguck|воронье гнездо
+das|Sehrohr|перископ
+der|Schraubenzieher|отвертка
+der|Kreis|круг
+der|Umfang|объем
+das|Durchmesser|диаметр
+der|Quadratmeter|квадратный метр
+die|Fläche|площадь
+die|Temperatur|температура
+das|Gewicht|вес
+das|Volumen|объем
+der|Umfang|объем
+der|Arztbrief|письмо врача
+der|Befund|результаты обследования
+die|Theateraufführung|спектакль
+die|Sicht|точка зрения
+die|Reihe|ряд
+die|Sitzreihe|ряд
+der|Rand|край
+der|Platz|место
+der|Kontrolltermin|контрольная дата
+der|Krankenhaustransport|транспорт для больниц
+der|Krankenhausaufenthalt|пребывание в больнице
+die|Untersuchung|расследование
+die|Behandlung|лечение
+das|Begehr|желание
+das|Erlebnis|переживание
+der|Eindruck|впечатление
+der|Zusammenhang|связь
+die|Nahrung|пища
+die|Gewohnheit|привычка
+das|Tier|животное
+der|Atem|дыхание
+das|Bewusstsein|сознание
+die|Bestätigung|подтверждение
+die|Sirene|сирена
+der|Sturz|падение
+der|Unfall|несчастный случай
+die|Anzeige|объявление
+der|Abstand|расстояние
+der|Zeuge|свидетель
+die|Diagnose|диагноз
+der|Bereich|область
+der|Vor­be­reich|подготовительная зона
+die|Schwere|тяжесть
+die|Leichtigkeit|легкость
+die|Spannung|напряжение
+die|Rose|роза
+die|Umstellung|переход
+der|Frost|мороз
+die|Ferien|каникулы
+die|Kühle|
+der|Lichtstrom|световой поток
+der|Meterstab|метровая линейка
+die|Stromstärke|сила тока
+der|Spannungsmesser|вольтметр
+der|Tempomat|круиз-контроль
+die|Werkstatt|мастерская
+das Grab|могила
+der Betrag|сумма
+die Fahndung|розыск
+der Hinweis|указание
+der Vormittag|утро

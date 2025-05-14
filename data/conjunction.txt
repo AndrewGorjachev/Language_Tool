@@ -1,3 +1,5 @@
 obwohl|хотя
+sowohl|как
 weil|потому что
 entweder|или
+sobald|как только

@@ -1,5 +1,7 @@
 bin
 lt
-.idea
+venv/
+.idea/
+.venv/
 .buildozer/
 __pycache__

@@ -38,4 +38,4 @@ class SaveDialogView:
         if full_path:
             self.call_back_save(full_path)
         else:
-            OpenSplashView("Warning", "Source data is not chosen.")
+            OpenSplashView("Warnung", "Die Quelldaten werden nicht ausgewählt.")

@@ -31,11 +31,6 @@ class GenderToolView(Screen, CommonToolView):
     def set_word(self, word):
         self.ids.word_to_check.text = word
 
-    def on_press_translate(self):
-        translation = self.controller.get_translation()
-        if translation:
-            OpenSplashView("Translation", translation)
-
     def set_color(self, name, color):
         col = None
         botton = None
@@ -72,13 +67,13 @@ class GenderToolView(Screen, CommonToolView):
         if self.controller.data:
             SaveDialogView(self.controller.save_data, self.controller.new_file)
         else:
-            self.show_warning("No data loaded.")
+            self.show_warning("Keine Daten geladen.")
 
     def on_press_save_mistakes(self):
         if self.controller.to_repeat and len(self.controller.to_repeat) > 0:
             SaveDialogView(self.controller.save_mistakes, self.controller.new_file)
         else:
-            self.show_warning("There are no mistakes to save.")
+            self.show_warning("Es gibt keine Fehler zu speichern.")
 
     def show_congratulation(self, congratulation_message):
-        OpenSplashView("Congratulations", congratulation_message)
+        OpenSplashView("Gratulation", congratulation_message)
